@@ -5,7 +5,7 @@ with open('./URLS.txt', 'w') as out_file:
     for i in range(1, 42):
         print("Récupération des urls de la page ", str(i), " sur 41")
         # url of page y is of type .....?page=y
-        url = 'https://budgetparticipatif.landes.fr/dialog/budget-participatif-2019?page=' + str(i)
+        url = 'https://budgetparticipatif.landes.fr/dialog/budget-participatif-2019?orderby=alphabetical&page=' + str(i)
         # get page
         result = requests.get(url)
         # Extracts the response as html: html_doc
