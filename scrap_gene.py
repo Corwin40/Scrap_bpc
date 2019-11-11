@@ -7,16 +7,17 @@ from time import gmtime, strftime
 import time as ti
 import csv
 
+
 # Récupération des url's depuis le fichier text
 urls = [line.rstrip('\n') for line in open('./URLS.txt')]
 instant = (strftime("%d-%m-%Y %H:%M:%S", gmtime()))
 limit_enveloppe = 1500000
-global_enveloppe = 0
-
+cumul_enveloppe = 0
 # ouverture du tableau contenant le scrap
 variables = pd.DataFrame(columns=['id', 'projet', 'secteur', 'porteur', 'enveloppe', 'votes'])
 
 for url in urls:
+
     # Extraction des données et mise en soup
     result = requests.get(url)
     html_doc = result.text
@@ -38,30 +39,42 @@ for url in urls:
     porteur = items[3].get_text()
     votes = [int(s) for s in vote_html.text.split() if s.isdigit()][0]
 
+    # Addition des enveloppes
+    cumul_enveloppe = cumul_enveloppe + enveloppe
+
     # Ajout d'une ligne
     new_row = pd.Series({"id": id, "projet": projet, "secteur": secteur, "porteur": porteur, "enveloppe": enveloppe, "votes": votes})
-
     variables = variables.append(new_row, ignore_index=True)
 
-    soup = ""
+    print(cumul_enveloppe)
 
-variables.sort_values(by=['votes'], ascending=False)
+
+variables = variables.sort_values(by=['votes'], ascending=False)
 variables = variables.set_index('projet')
-nbprojet = len(variables)
-rang = variables[variables.secteur == 'Mont-de-Marsan-2'].index.get_loc('creer-un-espace-public-numerique')
-nosVotes = variables.loc['creer-un-espace-public-numerique'].votes
-classementGeneral = variables.index.get_loc('creer-un-espace-public-numerique') + 1
 
-variables.to_csv("results_mdm2.csv", index=True, encoding='utf8')
+nbprojet = len(variables)
+nbprojet_secteur = len(variables[variables.secteur == "Mont-de-Marsan-2"])
+
+sum_secteur = sum(variables[variables.secteur == "Mont-de-Marsan-2"].enveloppe)
+
+nosVotes = variables.loc['creer-un-espace-public-numerique'].votes
+classement_gene = variables.index.get_loc('creer-un-espace-public-numerique') + 1
+classement_secteur = variables[variables.secteur == 'Mont-de-Marsan-2'].index.get_loc('creer-un-espace-public-numerique') + 1
 
 # PARTIE CODE RETOUR
 print("Date et heure du scrap " + instant)
 print("")
 print("- - INFO GENERALES - - ")
 print("Nombre total de projets : ", str(nbprojet))
+print("enveloppe globale des projets sélectionnés : ", sum(variables.enveloppe), "€")
 print("")
 print("- - RESULTATS SECTEUR : Mont de Marsan 2 - - ")
+print("Nombre total de projets : ", str(nbprojet_secteur))
+print("enveloppe des projets : ", sum_secteur, "€")
 print("Nombre de vote : ", nosVotes)
-print("Le projet d'espace numérique est classé ", str(classementGeneral), " / ", str(nbprojet),
-      " avec ", str(nosVotes),
-      " votes.")
+print("Le projet est classé au global : ", str(classement_gene), " / ", str(nbprojet), " avec ", str(nosVotes), " votes.")
+print("Le projet est classé : ", str(classement_secteur), " / ", str(nbprojet_secteur), " avec ", str(nosVotes)," votes.")
+print("- - TABLEAU - - ")
+print(variables)
+
+variables[variables.secteur == 'Mont-de-Marsan-2'].to_csv("results_mdm2.csv", index=True, encoding='utf8')

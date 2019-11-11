@@ -11,6 +11,10 @@ data = pd.DataFrame(columns=['nom', 'secteur', 'porteur', 'enveloppe', 'votes'])
 instant = (strftime("%d-%m-%Y %H:%M:%S", gmtime()))
 global_enveloppe = 1350000
 
+def entry(url):
+
+
+
 for url in urls:
     result = requests.get(url)
 
@@ -42,7 +46,7 @@ data = data.set_index('nom')
 nbProjets = len(data)
 sum_enveloppe = sum(data.enveloppe)
 
-rang = data[data.secteur == 'Mont-de-Marsan-2'].index.get_loc('creer-un-espace-public-numerique')
+rang = data[data.secteur == "Mont-de-Marsan-2"].index.get_loc('creer-un-espace-public-numerique')
 classementGeneral = data.index.get_loc('creer-un-espace-public-numerique')
 nosVotes = data.loc['creer-un-espace-public-numerique'].votes
 
