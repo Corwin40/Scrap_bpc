@@ -17,7 +17,6 @@ cumul_enveloppe = 0
 variables = pd.DataFrame(columns=['id', 'projet', 'secteur', 'porteur', 'enveloppe', 'votes'])
 
 for url in urls:
-
     # Extraction des données et mise en soup
     result = requests.get(url)
     html_doc = result.text
@@ -39,15 +38,13 @@ for url in urls:
     porteur = items[3].get_text()
     votes = [int(s) for s in vote_html.text.split() if s.isdigit()][0]
 
-    # Addition des enveloppes
-    cumul_enveloppe = cumul_enveloppe + enveloppe
-
     # Ajout d'une ligne
     new_row = pd.Series({"id": id, "projet": projet, "secteur": secteur, "porteur": porteur, "enveloppe": enveloppe, "votes": votes})
     variables = variables.append(new_row, ignore_index=True)
 
+    # Addition des enveloppes
+    cumul_enveloppe = cumul_enveloppe + enveloppe
     print(cumul_enveloppe)
-
 
 variables = variables.sort_values(by=['votes'], ascending=False)
 variables = variables.set_index('projet')

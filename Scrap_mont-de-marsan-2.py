@@ -4,72 +4,74 @@ import requests
 import pandas as pd
 import sys
 from time import gmtime, strftime
+import time as ti
+import csv
+
 
 # Récupération des url's depuis le fichier text
-urls = [line.rstrip('\n') for line in open('./URLS.txt')]
-data = pd.DataFrame(columns=['nom', 'secteur', 'porteur', 'enveloppe', 'votes'])
+urls = [line.rstrip('\n') for line in open('./urls_complet.txt')]
 instant = (strftime("%d-%m-%Y %H:%M:%S", gmtime()))
-global_enveloppe = 1350000
-
-def entry(url):
-
-
+limit_enveloppe = 100000
+cumul_enveloppe = 0
+# ouverture du tableau contenant le scrap
+variables = pd.DataFrame(columns=['id', 'projet', 'secteur', 'porteur', 'enveloppe', 'votes'])
 
 for url in urls:
+    # Extraction des données et mise en soup
     result = requests.get(url)
-
-    # Extracts the response as html: html_doc
     html_doc = result.text
-
-    # create a BeautifulSoup object from the HTML: soup
     soup = BeautifulSoup(html_doc, 'html.parser')
 
-    # Récupération des votes de l'url en cours.
+    # construction des éléments de recherche.
     vote_html = soup.find('div', attrs={'class': 'stats'})
-    vote = [int(s) for s in vote_html.text.split() if s.isdigit()][0]
 
     # Récupération des données pour alimenter le tableau
-    Projet = url.split('/')[-1]
+    chain_id = soup.select_one('div.proposal-info > h1').text
+    chain_id = chain_id.replace('N°',"")
     items = soup.select('div.row-content > p')
-    secteur = items[0].get_text()
     chain_enveloppe = items[2]
+
+    id = [int(i) for i in chain_id.split() if i.isdigit()][0]
+    projet = url.split('/')[-1]
+    secteur = items[0].get_text()
     enveloppe = [int(s) for s in chain_enveloppe.text.split() if s.isdigit()][0]
     porteur = items[3].get_text()
+    votes = [int(s) for s in vote_html.text.split() if s.isdigit()][0]
 
-    # Ajout d'une ligne pour à la variable data[]
-    new_row = pd.Series({"Projet": Projet, "secteur": secteur, "porteur": porteur, "enveloppe": enveloppe, "votes": vote})
-    data = data.append(new_row, ignore_index=True)
+    # Ajout d'une ligne
+    new_row = pd.Series({"id": id, "projet": projet, "secteur": secteur, "porteur": porteur, "enveloppe": enveloppe, "votes": votes})
+    variables = variables.append(new_row, ignore_index=True)
 
-data = data.sort_values(by=['votes'], ascending=False)
-data = data.set_index('nom')
+    # Addition des enveloppes
+    cumul_enveloppe = cumul_enveloppe + enveloppe
+    print(cumul_enveloppe)
 
-nbProjets = len(data)
-sum_enveloppe = sum(data.enveloppe)
+variables = variables.sort_values(by=['votes'], ascending=False)
+variables = variables.set_index('projet')
 
-rang = data[data.secteur == "Mont-de-Marsan-2"].index.get_loc('creer-un-espace-public-numerique')
-classementGeneral = data.index.get_loc('creer-un-espace-public-numerique')
-nosVotes = data.loc['creer-un-espace-public-numerique'].votes
+nbprojet = len(variables)
+nbprojet_secteur = len(variables[variables.secteur == "Mont-de-Marsan-2"])
 
-# PARTIE TEST
+sum_secteur = sum(variables[variables.secteur == "Mont-de-Marsan-2"].enveloppe)
 
-# print(nom)
+nosVotes = variables.loc['creer-un-espace-public-numerique'].votes
+classement_gene = variables.index.get_loc('creer-un-espace-public-numerique') + 1
+classement_secteur = variables[variables.secteur == 'Mont-de-Marsan-2'].index.get_loc('creer-un-espace-public-numerique') + 1
 
 # PARTIE CODE RETOUR
 print("Date et heure du scrap " + instant)
 print("")
-print(sum_enveloppe)
-print("")
 print("- - INFO GENERALES - - ")
-print("Nombre total de projets : ", str(nbProjets))
-#print("Enveloppe globale des demandes : " + all_enveloppe + " €")
+print("Nombre total de projets : ", str(nbprojet))
+print("enveloppe globale des projets sélectionnés : ", sum(variables.enveloppe), "€")
 print("")
-print("- - RESULTATS PAR SECTEUR - - ")
-print("Canton : " + secteur)
+print("- - RESULTATS SECTEUR : Mont de Marsan 2 - - ")
+print("Nombre total de projets : ", str(nbprojet_secteur))
+print("enveloppe des projets : ", sum_secteur, "€")
+print("Nombre de vote : ", nosVotes)
+print("Le projet est classé au global : ", str(classement_gene), " / ", str(nbprojet), " avec ", str(nosVotes), " votes.")
+print("Le projet est classé : ", str(classement_secteur), " / ", str(nbprojet_secteur), " avec ", str(nosVotes)," votes.")
+print("- - TABLEAU - - ")
+print(variables)
 
-print(data[data.secteur == 'Mont-de-Marsan-2'])
-print("")
-print('Classement : ' + secteur + ': ', rang, ' / ', len(data[data.secteur == 'Mont-de-Marsan-2']))
-print("")
-print("Le projet d'espace numérique est classé ", str(classementGeneral), " / ", str(nbProjets),
-      " avec ", str(nosVotes),
-      " votes.")
+variables[variables.secteur == 'Mont-de-Marsan-2'].to_csv("results_mdm2.csv", index=True, encoding='utf8')
