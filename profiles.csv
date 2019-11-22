@@ -1,0 +1,503 @@
+firsname;lastname;email;username;phone;gender;address;postcode;month;day;year;plainPassword
+Pierrette;Gladu;PierretteGladu@dayrep.com;ChristabelBondy;0653841644;m;98, Square de la Couronne OZOIR-LA-FERRIÈRE;77330;10;11;1980;CsM1J3vaqHFf
+Avent;Beausoleil;AventBeausoleil@jourrapide.com;AventBeausoleil;0627949723;m;81, avenue de l'Amandier BONDY;93140;3;17;1969;YUdChuKWDF02
+Kerman;Turcotte;KermanTurcotte@armyspy.com;KermanTurcotte;0673277597;m;24, Rue Marie De Médicis CALUIRE-ET-CUIRE;69300;12;17;1930;iF0dlWI42YBw
+Julien;Therriault;JulienTherriault@teleworm.us;JulienTherriault;0657992675;f;79, rue Gouin de Beauchesne SAINT-OUEN;93400;12;23;1926;2CuA1S8DvKFs
+Alexandrin;Paquette;AlexandrinPaquette@teleworm.us;AlexandrinPaquette;0685958003;m;17, Place du Jeu de Paume VIERZON;18100;5;17;1939;DKpHf1jr0UV4
+Éléonore;Grivois;EleonoreGrivois@jourrapide.com;EleonoreGrivois;0646973158;m;55, Place de la Gare COMBS-LA-VILLE;77380;12;12;1937;T7iCOt3kq4Vx
+Noémi;Therrien;NoemiTherrien@rhyta.com;NoemiTherrien;0686206886;f;5, avenue Voltaire MAGAGNOSC;06520;9;9;1921;HIUyEzPYlpGj
+Jacques;Fontaine;JacquesFontaine@jourrapide.com;JacquesFontaine;0658390520;m;27, cours Franklin Roosevelt MARSEILLE;13007;7;6;1990;kTRMqHUCfY6Q
+Bevis;Croquetaigne;BevisCroquetaigne@dayrep.com;BevisCroquetaigne;0686192445;f;40, cours Jean Jaures BORDEAUX;33800;8;24;1995;CFHasXbKhRD2
+Florus;L'Angelier;FlorusLAngelier@jourrapide.com;FlorusLAngelier;0649523798;f;15, rue Porte d'Orange CAVAILLON;84300;1;2;1969;jQly906vuao3
+Burkett;Paiement;BurkettPaiement@rhyta.com;BurkettPaiement;0648821671;m;79, Chemin Challet LIÉVIN;62800;1;5;1922;3HrteLu0PiE4
+Troy;Bisson;TroyBisson@teleworm.us;TroyBisson;0614888739;m;48, boulevard de Prague NÎMES;30900;10;17;1939;40qNervYpUZw
+Amélie;Blais;AmelieBlais@dayrep.com;AmelieBlais;0648416065;m;40, rue Reine Elisabeth MELUN;77000;10;6;1991;tGaWblfjVdPS
+Amélie;Champagne;AmelieChampagne@teleworm.us;AmelieChampagne;0682616345;m;83, rue de la Boétie POINTE-À-PITRE;97110;10;17;1943;ueP26otpJX4R
+Romaine;Fouquet;RomaineFouquet@dayrep.com;RomaineFouquet;0698002283;m;33, rue Marguerite VIRY-CHÂTILLON;91170;9;13;1940;52IA03Np1bjS
+Ermengardi;Marier;ErmengardiMarier@rhyta.com;ErmengardiMarier;0622884269;m;43, rue Michel Ange LE LAMENTIN;97232;4;17;1960;KIRy6YwvermJ
+Ogier;Bériault;OgierBeriault@rhyta.com;OgierBeriault;0633318009;f;64, rue Clement Marot PERPIGNAN;66000;5;9;1957;DlIU2QG4FXka
+Namo;Leduc;NamoLeduc@rhyta.com;NamoLeduc;0612948154;m;83, rue des lieutemants Thomazo DOLE;39100;3;20;1997;kjuVNvL2qmE5
+Toussaint;Rochon;ToussaintRochon@armyspy.com;ToussaintRochon;0679512698;f;28, Avenue Millies Lacroix DUNKERQUE;59640;3;14;1985;woQ7a1AvBm0x
+Ancelote;David;AnceloteDavid@armyspy.com;AnceloteDavid;0613917468;m;98, rue Ernest Renan CHERBOURG;50100;10;21;1949;KGOzBD0xuJ1g
+Porter;Pinneau;PorterPinneau@jourrapide.com;PorterPinneau;0663176820;f;1, boulevard Albin Durand CERGY;95800;9;4;1947;gYC81Z0R7QJx
+Faustin;Sauvé;FaustinSauve@teleworm.us;FaustinSauve;0634157412;f;86, Rue Bonnet VITROLLES;13127;8;21;1933;vQHeBN41cjRt
+Fabienne;Brian;FabienneBrian@dayrep.com;FabienneBrian;0630496090;f;38, rue Sébastopol SAINTE-GENEVIÈVE-DES-BOIS;91700;7;28;1984;eT20N5AvUGZH
+Millicent;Lagrange;MillicentLagrange@jourrapide.com;MillicentLagrange;0606888967;f;50, Place Charles de Gaulle VILLENEUVE-D'ASCQ;59650;5;28;1965;DV1TF7P2lXMv
+Maurelle;Leroy;MaurelleLeroy@teleworm.us;MaurelleLeroy;0684096667;m;58, rue Marie de Médicis BÉTHUNE;62400;7;14;1944;zRgMB0T685il
+Iven;Lavoie;IvenLavoie@dayrep.com;IvenLavoie;0618077973;f;13, rue Marguerite VINCENNES;94300;9;10;1953;pUro0XqJj6n9
+Delphine;Cyr;DelphineCyr@teleworm.us;DelphineCyr;0611651457;f;8, Chemin des Bateliers ALENÇON;61000;11;4;1933;yS4KxiRPpN56
+Esmeraude;Guimond;EsmeraudeGuimond@jourrapide.com;EsmeraudeGuimond;0699962315;f;86, boulevard Bryas CRÉTEIL;94000;8;3;1944;01yxvIQ9JmrO
+Alexandre;Chicoine;AlexandreChicoine@dayrep.com;AlexandreChicoine;0658805692;m;35, rue Jean-Monnet GONESSE;95500;6;24;1990;P40OkSfleMCX
+Chappell;Durand;ChappellDurand@teleworm.us;ChappellDurand;0663412082;m;85, rue Cazade DRAVEIL;91210;11;9;1955;X9YblfVAqHC3
+Belda;Charpentier;BeldaCharpentier@rhyta.com;BeldaCharpentier;0686868031;m;23, rue Gustave Eiffel ROANNE;42300;8;12;1929;6eosmfELw423
+Dominique;Caron;DominiqueCaron@dayrep.com;DominiqueCaron;0673455596;m;1, Avenue De Marlioz ARGENTEUIL;95100;4;19;1942;Bfe86yDpl0vb
+Bernadette;Joly;BernadetteJoly@jourrapide.com;BernadetteJoly;0669634154;f;21, rue du Faubourg National THIONVILLE;57100;8;4;1968;MVKoyuxLp2G0
+Lirienne;Baron;LirienneBaron@jourrapide.com;LirienneBaron;0695071342;m;44, rue Banaudon LYON;69006;4;2;1936;Veg18noWQ0Xa
+Talbot;Robitaille;TalbotRobitaille@dayrep.com;TalbotRobitaille;0660015149;m;65, Cours Marechal-Joffre DÉCINES-CHARPIEU;69150;2;2;1995;XpRT8tFwDlCy
+Nouel;Montminy;NouelMontminy@armyspy.com;NouelMontminy;0644096121;f;69, rue Sadi Carnot AUBERVILLIERS;93300;5;24;1996;kvtIQ2Kifwo1
+Cinderella;Courcelle;CinderellaCourcelle@teleworm.us;CinderellaCourcelle;0645957479;f;81, rue de Groussay ROCHEFORT;17300;10;16;1925;NxyigEF2YjPp
+Melville;Labrecque;MelvilleLabrecque@jourrapide.com;MelvilleLabrecque;0665386865;f;35, rue Descartes STRASBOURG;67200;12;27;1958;xGyMobWZ67v3
+Constance;Barrientos;ConstanceBarrientos@teleworm.us;ConstanceBarrientos;0651418889;m;17, rue Isambard FRESNES;94260;7;17;1967;95vBQpt6FbeA
+Clarice;Girard;ClariceGirard@armyspy.com;ClariceGirard;0640190483;m;70, boulevard de Prague NOGENT-SUR-MARNE;94130;8;22;1940;tILAODT6w8p2
+Gemma;Descoteaux;GemmaDescoteaux@jourrapide.com;GemmaDescoteaux;0620401715;m;23, Avenue Millies Lacroix EAUBONNE;95600;11;13;1938;Qsh7wbxMqutm
+Christine;Laforest;ChristineLaforest@jourrapide.com;ChristineLaforest;0681747041;f;80, rue Michel Ange LE HAVRE;76600;3;1;1973;LeFzlMafknQU
+Aloin;Mailly;AloinMailly@rhyta.com;AloinMailly;0606476964;m;79, rue des lieutemants Thomazo DIJON;21000;7;25;1946;ak98U0iAHJog
+Fanchon;Guérette;FanchonGuerette@teleworm.us;FanchonGuerette;0678512129;f;9, rue de la Hulotais SAINT-POL-SUR-MER;59430;6;2;1983;LZyb7O9oe2Jg
+Henri;Thibault;HenriThibault@jourrapide.com;HenriThibault;0660346015;m;28, rue Adolphe Wurtz LE PLESSIS-ROBINSON;92350;12;21;1960;bWaQB5fexsqi
+Emmanuelle;Demers;EmmanuelleDemers@jourrapide.com;EmmanuelleDemers;0677086319;f;26, rue Sadi Carnot AURILLAC;15000;8;18;1925;ULcEBKa309qb
+Russell;Sansouci;RussellSansouci@teleworm.us;RussellSansouci;0647373254;m;82, place Maurice-Charretier CHARENTON-LE-PONT;94220;5;13;1953;liZGnOw69H13
+Alexis;Beaudry;AlexisBeaudry@armyspy.com;AlexisBeaudry;0624146282;m;67, rue de la Mare aux Carats MONTPELLIER;34080;12;26;1945;eXIcQhCMY9aK
+Pascaline;Dandonneau;PascalineDandonneau@jourrapide.com;PascalineDandonneau;0679785837;m;96, rue Clement Marot PERPIGNAN;66100;12;20;1923;m3zgrxfhMHeY
+Zara;Dagenais;ZaraDagenais@dayrep.com;ZaraDagenais;0617388423;f;7, place de Miremont VILLENEUVE-LA-GARENNE;92390;4;1;1961;sn6chUJt0Nwz
+Jean;Bienvenue;JeanBienvenue@teleworm.us;JeanBienvenue;0620904726;f;5, boulevard Albin Durand CHÂLONS-EN-CHAMPAGNE;51000;6;15;1928;r10EA6duzblY
+Agramant;Séguin;AgramantSeguin@teleworm.us;AgramantSeguin;0656968695;m;11, avenue de Provence VANNES;56000;4;6;1998;vTEkQyl0Ca3c
+Georgette;Salois;GeorgetteSalois@dayrep.com;GeorgetteSalois;0658036049;m;69, Quai des Belges MAUBEUGE;59600;8;19;1934;aNtT3s2BDgqv
+Emmeline;Provencher;EmmelineProvencher@rhyta.com;EmmelineProvencher;0697011558;f;16, rue Léon Dierx LIMOGES;87280;8;7;1976;keVXbnYO0P1s
+Julie;Pomerleau;JuliePomerleau@dayrep.com;JuliePomerleau;0636746218;f;29, rue de Raymond Poincaré NARBONNE;11100;4;8;1961;jGoLintuWhON
+Aubert;Coupart;AubertCoupart@rhyta.com;AubertCoupart;0626368284;m;94, rue de l'Epeule ROUBAIX;59100;3;22;1958;aXIMK89fZ20j
+Amedee;Ouellet;AmedeeOuellet@jourrapide.com;AmedeeOuellet;0659280477;m;91, rue du Paillle en queue LEVALLOIS-PERRET;92300;11;12;1950;mWtApUwJaYSv
+Soren;Sabourin;SorenSabourin@teleworm.us;SorenSabourin;0602756050;f;85, Avenue des Pr'es MONTPELLIER;34000;1;10;1998;4IjgqtZzyMDR
+Millard;Labbé;MillardLabbe@teleworm.us;MillardLabbe;0683099428;f;97, rue du Président Roosevelt SAVIGNY-SUR-ORGE;91600;12;14;1924;0rkQbwsKeBC2
+Claude;Daigneault;ClaudeDaigneault@armyspy.com;ClaudeDaigneault;0686689373;f;49, rue Victor Hugo CONCARNEAU;29900;7;3;1970;af9Zyhrknu2i
+Audric;Durand;AudricDurand@jourrapide.com;AudricDurand;0671164888;m;95, rue de Groussay ROMAINVILLE;93230;5;1;1966;130nswlUd6G0
+Charmaine;Bérubé;CharmaineBerube@teleworm.us;CharmaineBerube;0618154591;f;24, boulevard Bryas CRÉTEIL;94000;4;13;1943;VGgB01hRdKbP
+Royale;Cailot;RoyaleCailot@teleworm.us;RoyaleCailot;0682102588;f;15, quai Saint-Nicolas TOURNEFEUILLE;31170;2;27;1940;BLhMd7kyeH0v
+Bruce;Lagueux;BruceLagueux@jourrapide.com;BruceLagueux;0667788005;m;11, rue Victor Hugo CORBEIL-ESSONNES;91100;8;23;1972;qpwJCQkg3x9L
+Hedvige;Déziel;HedvigeDeziel@armyspy.com;HedvigeDeziel;0626452102;m;77, Rue Frédéric Chopin VERNON;27200;7;15;1930;8BnaiMlgzdIL
+Patrick;Grandpré;PatrickGrandpre@dayrep.com;PatrickGrandpre;0607856622;f;69, Faubourg Saint Honoré PAU;64000;6;4;1943;cUuvjkenAh63
+Iva;Fugère;IvaFugere@teleworm.us;IvaFugere;0665857435;f;1, avenue Ferdinand de Lesseps GRADIGNAN;33170;5;16;1967;D10NW2pwZdXV
+Maurice;Boncoeur;MauriceBoncoeur@rhyta.com;MauriceBoncoeur;0624398864;f;89, rue de la Mare aux Carats MONTPELLIER;34080;7;3;1950;HGz4DhIZoObi
+Raina;Daigle;RainaDaigle@teleworm.us;RainaDaigle;0690110887;f;75, boulevard Amiral Courbet ORVAULT;44700;12;10;1974;AUreZI7EBwx4
+Frédéric;Moïse;FredericMoise@teleworm.us;FredericMoise;0618049187;f;12, rue de Groussay ROMAINVILLE;93230;1;8;1941;FwnoHR2vCkcA
+Auriville;Benoit;AurivilleBenoit@dayrep.com;AurivilleBenoit;0647928444;f;20, Rue Frédéric Chopin VESOUL;70000;6;12;1960;f9z50n82opue
+Dorene;Patenaude;DorenePatenaude@armyspy.com;DorenePatenaude;0615428245;m;67, Place de la Madeleine PARIS;75010;11;27;1936;RlWL7UuYqZ0z
+Matthieu;Plante;MatthieuPlante@teleworm.us;MatthieuPlante;0605661497;m;3, rue Sébastopol SAINTE-GENEVIÈVE-DES-BOIS;91700;8;23;1960;9pr1RXdlPqN2
+Alexis;Ruais;AlexisRuais@dayrep.com;AlexisRuais;0614380771;f;52, avenue Jules Ferry SIX-FOURS-LES-PLAGES;83140;6;11;1993;0rk6dvlfwoe4
+Yolette;Bilodeau;YoletteBilodeau@jourrapide.com;YoletteBilodeau;0691919388;f;71, avenue de l'Amandier BONDY;93140;6;26;1921;DAR1Unkzi29f
+Mallory;Lagrange;MalloryLagrange@jourrapide.com;MalloryLagrange;0671833592;m;6, avenue Voltaire MAISONS-LAFFITTE;78600;2;15;1929;kgwSXhFixjVa
+André;Déziel;AndreDeziel@teleworm.us;AndreDeziel;0652064431;f;56, rue du Fossé des Tanneurs TOULON;83000;1;13;1922;3b5x2pgSto71
+Fabienne;Mathieu;FabienneMathieu@rhyta.com;FabienneMathieu;0614113666;f;81, rue Marguerite VINCENNES;94300;5;3;1933;B0qDf4LM7igH
+Vignette;Laderoute;VignetteLaderoute@dayrep.com;VignetteLaderoute;0698226944;m;89, rue Pierre Motte SAINT-DIÉ;88100;3;6;1997;cI6driMA9OWC
+Christophe;Marcheterre;ChristopheMarcheterre@dayrep.com;ChristopheMarcheterre;0678349863;f;59, Avenue des Pr'es MONTLUÇON;03100;3;16;1955;bc8fnKEXGASJ
+Lucille;Pariseau;LucillePariseau@dayrep.com;LucillePariseau;0611766072;f;89, rue de la Boétie POITIERS;86000;12;2;1990;FpNAIL2WJyOY
+Adrienne;Gregoire;AdrienneGregoire@rhyta.com;AdrienneGregoire;0678481946;f;7, quai Saint-Nicolas TOULOUSE;31500;8;14;1951;WS0NtE7OI8wa
+Cher;Beaudoin;CherBeaudoin@armyspy.com;CherBeaudoin;0660268938;f;47, rue Pierre Motte SAINT-DENIS;97400;7;27;1923;iJ0VKOySnazt
+Thiery;Norbert;ThieryNorbert@jourrapide.com;ThieryNorbert;0651563011;f;92, boulevard Bryas DAMMARIE-LES-LYS;77190;2;23;1925;e79MLkva3G1S
+Flordelis;Parenteau;FlordelisParenteau@jourrapide.com;FlordelisParenteau;0678874075;f;55, Rue de la Pompe MAMOUDZOU;97600;12;6;1920;XiRKm8Sqp4yg
+Royden;Monty;RoydenMonty@teleworm.us;RoydenMonty;0679656349;m;46, rue La Boétie PARIS;75014;6;21;1951;BTh5UjaY9uQC
+Marguerite;Lalonde;MargueriteLalonde@rhyta.com;MargueriteLalonde;0656639201;f;93, rue de Raymond Poincaré NANTES;44200;11;19;1947;QRYboXg3utsy
+Eulalie;Michaud;EulalieMichaud@dayrep.com;EulalieMichaud;0636285944;f;48, Rue du Limas BASSE-TERRE;97100;7;8;1982;QmKJrDfxNT0A
+Olivie;Marier;OlivieMarier@jourrapide.com;OlivieMarier;0634370002;m;53, rue Gustave Eiffel RIS-ORANGIS;91000;10;9;1937;0216axU9dyCo
+Belisarda;Bonami;BelisardaBonami@teleworm.us;BelisardaBonami;0621137766;f;65, rue Beauvau MARSEILLE;13001;10;14;1956;KfDUAGgtyO5M
+Marie;Brian;MarieBrian@teleworm.us;MarieBrian;0687109655;f;53, Rue du Palais ÉPERNAY;51200;4;3;1979;tIc85Nv6LD7o
+Scoville;Batard;ScovilleBatard@armyspy.com;ScovilleBatard;0669365736;f;32, rue du Clair Bocage LA VARENNE-SAINT-HILAIRE;94210;5;10;1985;E2uCwHQiAvzj
+Bruno;Édouard;BrunoEdouard@armyspy.com;BrunoEdouard;0693241933;m;75, rue Léon Dierx LIVRY-GARGAN;93190;5;12;1970;3HsLISfruwjk
+Cher;Daigneault;CherDaigneault@dayrep.com;CherDaigneault;0655413041;f;70, place Stanislas NANTES;44100;3;5;1976;0vGLtwQ8TMaJ
+Aurore;Chartier;AuroreChartier@dayrep.com;AuroreChartier;0691159063;m;36, rue Léon Dierx LIVRY-GARGAN;93190;1;18;1978;b4sODHro8SCy
+Faustin;Lafrenière;FaustinLafreniere@teleworm.us;FaustinLafreniere;0643046430;m;41, rue Marguerite VILLIERS-SUR-MARNE;94350;5;3;1977;t0jgHdXrGoqz
+Onfroi;Faucher;OnfroiFaucher@rhyta.com;OnfroiFaucher;0620166752;f;79, avenue de l'Amandier BOIS-COLOMBES;92270;6;27;1922;AOFHJikTsb8D
+Agrican;Lemelin;AgricanLemelin@dayrep.com;AgricanLemelin;0695962982;m;26, rue Gontier-Patin AIX-EN-PROVENCE;13100;1;19;1984;KWeztNxcRgaG
+Vick;Panetier;VickPanetier@teleworm.us;VickPanetier;0626041092;f;69, Rue Frédéric Chopin VICHY;03200;6;8;1956;CdZJ9k847bAr
+Angelique;Deslauriers;AngeliqueDeslauriers@rhyta.com;AngeliqueDeslauriers;0688678696;m;69, rue Petite Fusterie BOURG-EN-BRESSE;01000;5;21;1973;ExCi2nvg7asl
+Clementine;Lapierre;ClementineLapierre@rhyta.com;ClementineLapierre;0632762763;m;82, boulevard de Prague NIORT;79000;2;3;1960;Drqj4kHMTWtx
+Daisi;Mazuret;DaisiMazuret@jourrapide.com;DaisiMazuret;0618349066;m;84, Chemin Des Bateliers ANGOULÊME;16000;10;22;1932;52GjslKRcE3H
+Vignette;Briard;VignetteBriard@dayrep.com;VignetteBriard;0645590507;f;15, avenue du Marechal Juin SAINT-LOUIS;68300;6;20;1921;vIg0ac5fMP9K
+Bradamate;Beaudoin;BradamateBeaudoin@rhyta.com;BradamateBeaudoin;0644547833;m;25, rue de la Hulotais SAINT-QUENTIN;02100;11;12;1960;y7jUZEKdcV63
+Cerise;Vachon;CeriseVachon@armyspy.com;CeriseVachon;0689347855;m;90, rue Banaudon LYON;69007;11;27;1985;21yLG638tSCm
+Garland;Viens;GarlandViens@dayrep.com;GarlandViens;0601582297;m;13, rue Marguerite VINCENNES;94300;6;22;1945;uhsxIekzGQXw
+Adélaïde;Fecteau;AdelaideFecteau@rhyta.com;AdelaideFecteau;0698852498;m;49, Place du Jeu de Paume VIENNE;38200;5;26;1939;1lZ72csaY9yT
+Vail;Grimard;VailGrimard@armyspy.com;VailGrimard;0665220265;m;69, rue du Faubourg National TAVERNY;95150;9;3;1994;KmCSaIip0fhX
+Orville;Busson;OrvilleBusson@dayrep.com;OrvilleBusson;0608873549;m;84, rue Ernest Renan CHAUMONT;52000;1;13;1958;FE3wo9a5rGVZ
+Gauthier;Galarneau;GauthierGalarneau@dayrep.com;GauthierGalarneau;0648585173;f;64, avenue du Marechal Juin SAINT-LÔ;50000;2;27;1989;nwfUmKiASE5J
+Melusina;Leclerc;MelusinaLeclerc@jourrapide.com;MelusinaLeclerc;0683923170;m;16, Avenue des Tuileries GUÉRET;23000;4;28;1998;uZU7OM5LJsyE
+Donat;Panetier;DonatPanetier@teleworm.us;DonatPanetier;0673051445;f;25, Cours Marechal-Joffre DIEPPE;76200;10;10;1937;wn7qYITx90Cz
+Javier;Beaudry;JavierBeaudry@rhyta.com;JavierBeaudry;0631383178;f;76, boulevard de Prague NOISY-LE-GRAND;93160;9;9;1972;JrEY0lHidfXj
+Bernadette;Mousseau;BernadetteMousseau@jourrapide.com;BernadetteMousseau;0671279607;f;42, rue Grande Fusterie BRUNOY;91800;1;13;1935;kjdKV0oLh02Z
+Slainie;Daoust;SlainieDaoust@jourrapide.com;SlainieDaoust;0690746503;f;47, Rue Hubert de Lisle LORMONT;33310;2;16;1978;LnVuwpAbZ2E3
+Ernest;Tessier;ErnestTessier@jourrapide.com;ErnestTessier;0641206214;f;81, Rue de la Pompe MARIGNANE;13700;5;23;1973;bTu3IiRa4clG
+Hedvige;Dubois;HedvigeDubois@teleworm.us;HedvigeDubois;0631370171;m;80, rue Descartes SUCY-EN-BRIE;94370;4;24;1948;3yN0AVXZSbDI
+Madeleine;Coupart;MadeleineCoupart@rhyta.com;MadeleineCoupart;0662898192;f;50, rue du Général Ailleret LES ABYMES;97142;9;5;1923;1OvVNu2BLwRx
+Gilbert;Sarrazin;GilbertSarrazin@armyspy.com;GilbertSarrazin;0666882854;m;18, rue Sadi Carnot AURILLAC;15000;10;26;1979;kchgHQqWRYV3
+Felicien;Guilmette;FelicienGuilmette@dayrep.com;FelicienGuilmette;0626397905;m;84, Avenue des Tuileries GUYANCOURT;78280;6;17;1951;KeEcrdwnoh3T
+Victorine;De;VictorineDeLaVergne@jourrapide.com;VictorineDeLaVergne;0680899199;f;98, rue des Dunes SAINT-MÉDARD-EN-JALLES;33160;12;10;1930;7mBNZ4y2GSik
+Élisabeth;Corbin;ElisabethCorbin@armyspy.com;ElisabethCorbin;0632919754;f;67, Place du Jeu de Paume VIENNE;38200;1;19;1928;jyBFtef3xIW0
+Melusina;Mailhot;MelusinaMailhot@armyspy.com;MelusinaMailhot;0625976222;m;56, Boulevard de Normandie FONTENAY-AUX-ROSES;92260;8;9;1932;2eX30DqtznkV
+Chapin;Roux;ChapinRoux@jourrapide.com;ChapinRoux;0600348320;f;96, rue Grande Fusterie BRUNOY;91800;2;17;1942;ItPT5CQlRZhw
+Toussaint;Jacques;ToussaintJacques@jourrapide.com;ToussaintJacques;0699492693;f;60, rue du Fossé des Tanneurs TOULON;83000;5;4;1989;zsluJ00qovSn
+Maurelle;Beaujolie;MaurelleBeaujolie@jourrapide.com;MaurelleBeaujolie;0602952451;m;50, Rue Marie De Médicis CAMBRAI;59400;7;20;1965;ZwJ92bLnPgdN
+Harcourt;Ricard;HarcourtRicard@rhyta.com;HarcourtRicard;0665540673;f;87, rue du Général Ailleret LES LILAS;93260;5;14;1957;cPpLSqKE7zho
+Emmanuel;Sacré;EmmanuelSacre@dayrep.com;EmmanuelSacre;0688482597;m;41, Avenue des Pr'es MONTIGNY-LÈS-METZ;57158;3;12;1941;BgXZCQ8h7WvA
+Martin;Bois;MartinBois@rhyta.com;MartinBois;0630524708;m;74, rue du Château SAINT-GERMAIN-EN-LAYE;78100;12;16;1974;M96ydiEGwIu2
+Namo;Lebrun;NamoLebrun@jourrapide.com;NamoLebrun;0611033578;m;95, place de Miremont VILLEPINTE;93420;8;25;1958;gpXkrO4oTlt7
+Arianne;Cailot;ArianneCailot@teleworm.us;ArianneCailot;0613185612;f;46, boulevard Bryas COURBEVOIE;92400;3;22;1923;rkeMI4a1tFwU
+Sophie;Corbin;SophieCorbin@jourrapide.com;SophieCorbin;0659081040;f;77, rue des Coudriers MOULINS;03000;7;11;1975;u87AbJCp3xWw
+Virginie;Bousquet;VirginieBousquet@rhyta.com;VirginieBousquet;0650143472;f;98, avenue du Marechal Juin SAINT-LOUIS;97450;8;27;1992;RwBhOLZArs9q
+Jessamine;Guay;JessamineGuay@jourrapide.com;JessamineGuay;0643031557;f;96, rue de Lille ATHIS-MONS;91200;7;6;1991;GoUpkJmO0ZIr
+Tristan;Clavet;TristanClavet@armyspy.com;TristanClavet;0677019834;m;78, rue Petite Fusterie BREST;29200;5;9;1959;tSYFKodHcnmV
+Hedvige;Marceau;HedvigeMarceau@rhyta.com;HedvigeMarceau;0664643709;f;69, rue Grande Fusterie BRÉTIGNY-SUR-ORGE;91220;7;22;1989;XhcEjKpYznkM
+Aya;Bourgouin;AyaBourgouin@armyspy.com;AyaBourgouin;0641261587;f;73, rue de l'Aigle LA MADELEINE;59110;11;1;1958;M5803abZ9n1u
+Stéphane;Gauvin;StephaneGauvin@armyspy.com;StephaneGauvin;0608123333;m;88, Square de la Couronne PANTIN;93500;11;10;1936;Hapn0Q7J0bCw
+Tempeste;Aubin;TempesteAubin@jourrapide.com;TempesteAubin;0665470153;f;10, rue Pierre Motte SAINT-DENIS;97400;3;17;1993;DfUkquPWtw7X
+Alexandrie;Létourneau;AlexandrieLetourneau@jourrapide.com;AlexandrieLetourneau;0623847295;m;78, Chemin Des Bateliers ANGERS;49000;10;19;1932;EBXfj49Z3Goc
+Sébastien;Brasseur;SebastienBrasseur@teleworm.us;SebastienBrasseur;0607381157;f;89, boulevard Bryas CRÉTEIL;94000;3;8;1989;0nrS2lDvQ0Ki
+Channing;Flamand;ChanningFlamand@teleworm.us;ChanningFlamand;0678705561;f;60, Avenue des Pr'es MONTLUÇON;03100;8;27;1954;YswmSh04On1q
+Nanna;Echeverri;NannaEcheverri@dayrep.com;NannaEcheverri;0607372345;f;71, place Stanislas NANCY;54000;5;28;1980;ZA3V8QbBn2eS
+Blanchefle;Beauchemin;BlanchefleBeauchemin@dayrep.com;BlanchefleBeauchemin;0651443944;m;44, rue Pierre Motte SAINT-DIÉ;88100;11;17;1941;LZnr0p863VEw
+Dorene;Cuillerier;DoreneCuillerier@dayrep.com;DoreneCuillerier;0617887858;m;17, Chemin Du Lavarin Sud CAHORS;46000;6;10;1930;qCxX7eB0pIoD
+Renée;Beausoleil;ReneeBeausoleil@jourrapide.com;ReneeBeausoleil;0627618133;f;72, rue Banaudon LYON;69005;9;16;1928;xIHPt4uFyZBX
+Ignace;Chartré;IgnaceChartre@jourrapide.com;IgnaceChartre;0653336602;m;83, rue des Nations Unies SAINT-CHAMOND;42400;4;19;1979;qjYuEo3FfyhZ
+Jacques;Mathieu;JacquesMathieu@teleworm.us;JacquesMathieu;0608643737;m;39, rue Victor Hugo CORBEIL-ESSONNES;91100;11;27;1927;Rc7PBDtXSJ8z
+Jewel;Bourque;JewelBourque@teleworm.us;JewelBourque;0635206812;m;19, rue Clement Marot PESSAC;33600;4;2;1933;KBok6lEDGq0u
+Brice;Couet;BriceCouet@rhyta.com;BriceCouet;0612047143;m;44, rue Charles Corbeau ÉVREUX;27000;5;18;1956;1CIa0R6k4wYF
+Dexter;Louis;DexterLouis@armyspy.com;DexterLouis;0686380039;m;27, place Stanislas NANTES;44000;3;19;1967;ESV6qClskaGg
+Campbell;Therriault;CampbellTherriault@rhyta.com;CampbellTherriault;0690826730;f;18, rue des lieutemants Thomazo DRAGUIGNAN;83300;1;20;1992;8Vt3ZAlRE5Mq
+Christian;Dionne;ChristianDionne@teleworm.us;ChristianDionne;0682174620;f;9, rue Gouin de Beauchesne SAINT-OUEN;93400;10;1;1986;uwd2Hc68rZR4
+Suzette;Lafond;SuzetteLafond@jourrapide.com;SuzetteLafond;0634404302;m;8, rue Marguerite VILLEURBANNE;69100;2;11;1935;lMudcH9g6efB
+Germaine;Sciverit;GermaineSciverit@jourrapide.com;GermaineSciverit;0613219139;f;32, rue Michel Ange LE LAMENTIN;97232;12;17;1996;CiJjFk2AuV9a
+Pryor;Chastain;PryorChastain@dayrep.com;PryorChastain;0665371826;f;54, rue Bonneterie MIRAMAS;13140;10;20;1950;1k2I3uWy4jBo
+Aubine;Pelchat;AubinePelchat@rhyta.com;AubinePelchat;0644952306;m;55, Chemin Du Lavarin Sud CAHORS;46000;4;20;1939;fSsvQPK4NqD0
+Victor;Patenaude;VictorPatenaude@dayrep.com;VictorPatenaude;0621928731;f;64, Place de la Madeleine PARIS;75011;11;4;1937;UBZpq50QVudY
+Afrodille;Paradis;AfrodilleParadis@jourrapide.com;AfrodilleParadis;0621535688;f;99, place Stanislas NANCY;54000;9;23;1966;AIYmG8qF7a3s
+Danielle;Fouquet;DanielleFouquet@dayrep.com;DanielleFouquet;0636278115;m;46, Rue de Verdun MONTFERMEIL;93370;3;2;1996;ZDdazuqrJiBO
+Dalmace;Fréchette;DalmaceFrechette@rhyta.com;DalmaceFrechette;0643750360;m;79, Rue Marie De Médicis CALUIRE-ET-CUIRE;69300;1;15;1948;WpL4UCcnI5ib
+Alita;Gaudreau;AlitaGaudreau@dayrep.com;AlitaGaudreau;0669323582;m;83, avenue Jean Portalis TRAPPES;78190;1;9;1985;yWmBMcr0xtP7
+Legget;Berthiaume;LeggetBerthiaume@armyspy.com;LeggetBerthiaume;0634099926;f;26, Rue du Palais ÉPERNAY;51200;8;10;1973;vwoYPXS8gnDm
+Arridano;Goudreau;ArridanoGoudreau@teleworm.us;ArridanoGoudreau;0636176204;f;24, Place Charles de Gaulle VILLENEUVE-D'ASCQ;59650;9;9;1950;JEjscW0A52pO
+Perrin;Deserres;PerrinDeserres@dayrep.com;PerrinDeserres;0699522472;m;89, Rue Bonnet YERRES;91330;7;26;1932;Yts5BE3gaM8n
+Medoro;Pouchard;MedoroPouchard@armyspy.com;MedoroPouchard;0687493768;m;52, rue Gouin de Beauchesne SAINT-MICHEL-SUR-ORGE;91240;7;14;1928;2d6T8AlPwD3n
+Evrard;Deniger;EvrardDeniger@teleworm.us;EvrardDeniger;0690505456;f;85, Rue du Limas BEAUNE;21200;7;12;1922;fRZKoBaU4nNe
+Gill;Leroy;GillLeroy@jourrapide.com;GillLeroy;0667194277;f;79, boulevard de Prague NOISY-LE-GRAND;93160;7;6;1974;bAB04dkYgi0Z
+Marshall;Charette;MarshallCharette@rhyta.com;MarshallCharette;0632540962;m;34, rue de Raymond Poincaré NARBONNE;11100;6;26;1962;MnrEyQOf0XUH
+Céline;Benjamin;CelineBenjamin@rhyta.com;CelineBenjamin;0605911554;m;7, rue de l'Epeule ROUBAIX;59100;2;28;1941;Kczj9WAG0nma
+Noël;de;NoeldeLaunay@rhyta.com;NoeldeLaunay;0615495836;m;34, rue Adolphe Wurtz LE PETIT-QUEVILLY;76140;10;15;1992;kYwAV0JlTQXp
+Eglantine;Tachel;EglantineTachel@dayrep.com;EglantineTachel;0679828008;f;20, rue de la République LUNÉVILLE;54300;3;25;1954;gDo3jz4PQWMn
+Fabienne;Cotuand;FabienneCotuand@dayrep.com;FabienneCotuand;0654581081;m;16, rue Lenotre RENNES;35200;6;17;1960;mdVO0irko7q4
+Alexandrin;Riquier;AlexandrinRiquier@armyspy.com;AlexandrinRiquier;0645814289;f;20, rue Saint Germain GAGNY;93220;7;28;1951;A4wJbTZR61ts
+Michèle;Savard;MicheleSavard@jourrapide.com;MicheleSavard;0632351708;f;55, rue Beauvau MARSEILLE;13002;6;17;1970;KZski0XDoNIm
+Alain;Brunault;AlainBrunault@dayrep.com;AlainBrunault;0660617330;f;22, rue du Président Roosevelt SCHILTIGHEIM;67300;6;15;1937;cxOUnr4voFzN
+Brigliador;Lamare;BrigliadorLamare@armyspy.com;BrigliadorLamare;0643813243;m;30, rue du Faubourg National TARBES;65000;12;4;1993;I3rSn2sJQzRt
+Étienne;Gour;EtienneGour@rhyta.com;EtienneGour;0652162057;m;38, rue Porte d'Orange CASTRES;81100;10;20;1985;EVrWI5bYx0FX
+Xavierre;Guérette;XavierreGuerette@dayrep.com;XavierreGuerette;0608744476;f;62, rue du Président Roosevelt SAUMUR;49400;6;7;1963;dVjJosDEU01l
+Louis;Perreault;LouisPerreault@armyspy.com;LouisPerreault;0612773754;f;47, rue Marguerite VIRY-CHÂTILLON;91170;9;6;1987;xfHGJ0rCgcQP
+Scoville;Provencher;ScovilleProvencher@armyspy.com;ScovilleProvencher;0628987978;f;30, rue de l'Aigle LA ROCHELLE;17000;2;8;1954;2Ui9PVwX0kbn
+Melusina;Vachon;MelusinaVachon@jourrapide.com;MelusinaVachon;0673515794;m;95, rue Michel Ange LE HAVRE;76600;2;1;1999;oRP95g30rLKh
+Denise;Bonsaint;DeniseBonsaint@dayrep.com;DeniseBonsaint;0645382381;m;25, avenue de Provence VALENCIENNES;59300;6;4;1948;qPDevrxchwQM
+Ninette;Bonami;NinetteBonami@jourrapide.com;NinetteBonami;0697005044;m;98, quai Saint-Nicolas TOURCOING;59200;5;17;1961;g3bztUaLZDIl
+Kerman;Breton;KermanBreton@jourrapide.com;KermanBreton;0680914167;m;83, Avenue des Pr'es MONTLUÇON;03100;6;5;1967;yVS4kqnvED9M
+Aymon;Lamoureux;AymonLamoureux@jourrapide.com;AymonLamoureux;0652775200;f;36, rue Petite Fusterie BOULOGNE-SUR-MER;62200;10;17;1958;DkVREhLi0jNe
+Solaine;Courtemanche;SolaineCourtemanche@jourrapide.com;SolaineCourtemanche;0676479691;m;52, rue Grande Fusterie BRUAY-LA-BUISSIÈRE;62700;6;5;1920;NbinReHTxOzu
+Rémy;Arsenault;RemyArsenault@dayrep.com;RemyArsenault;0620790916;f;28, rue Sébastopol SAINTES;17100;10;8;1982;A31YXiTSFJfW
+Geneviève;Ferland;GenevieveFerland@rhyta.com;GenevieveFerland;0634482103;m;58, rue du Gue Jacquet CHÂTILLON;92320;5;1;1941;cGTsSfnzaVP4
+Jules;Ferland;JulesFerland@rhyta.com;JulesFerland;0691729162;m;70, rue Pierre Motte SAINT-DIÉ;88100;1;4;1994;9JSIqALajThO
+Galatee;Lépicier;GalateeLepicier@teleworm.us;GalateeLepicier;0600491090;f;15, rue Léon Dierx LIVRY-GARGAN;93190;9;15;1986;tcNwOSqg6W0I
+Royden;Bonnet;RoydenBonnet@jourrapide.com;RoydenBonnet;0669537312;m;89, rue des Lacs HÉNIN-BEAUMONT;62110;6;23;1921;ea3Ft6rS8cTm
+Laure;Durepos;LaureDurepos@rhyta.com;LaureDurepos;0603149483;m;4, rue Pierre Motte SAINTE-ANNE;97180;6;28;1965;Yl8QfE0tOm3T
+Nicolas;Reault;NicolasReault@rhyta.com;NicolasReault;0655863646;f;89, rue du Gue Jacquet CHÂTILLON;92320;11;25;1989;4KwJ0o3m1Cip
+Damiane;Boncoeur;DamianeBoncoeur@teleworm.us;DamianeBoncoeur;0633314349;m;19, place Stanislas NANTES;44100;7;15;1929;1DkICKFnX5EM
+Florismart;Brunault;FlorismartBrunault@dayrep.com;FlorismartBrunault;0663213477;f;42, rue Nationale PARIS;75007;10;16;1999;RHPqNSuUyEsj
+Laurette;Tessier;LauretteTessier@armyspy.com;LauretteTessier;0669761768;m;81, Rue St Ferréol MEUDON;92190;2;25;1995;pTP5ODoB4dMc
+Guerin;Bernier;GuerinBernier@dayrep.com;GuerinBernier;0633817400;m;82, Avenue De Marlioz ANTIBES;06600;2;2;1960;TNqbOSXu0rxM
+Cheney;Goddu;CheneyGoddu@teleworm.us;CheneyGoddu;0618368195;m;85, Rue Marie De Médicis CARCASSONNE;11000;2;25;1935;zkKXmrHqiTjo
+Onfroi;Paradis;OnfroiParadis@rhyta.com;OnfroiParadis;0644343138;f;24, Chemin des Bateliers ALENÇON;61000;2;5;1979;2pEsJ637tw0I
+Orva;Beaudouin;OrvaBeaudouin@armyspy.com;OrvaBeaudouin;0646830285;f;13, Avenue des Pr'es MONTPELLIER;34000;9;12;1934;1X2AdsF8GrW7
+Maryse;Lapresse;MaryseLapresse@jourrapide.com;MaryseLapresse;0690062275;m;22, rue de l'Epeule ROUEN;76100;9;2;1936;yG3disAjfp57
+Pierpont;Caisse;PierpontCaisse@jourrapide.com;PierpontCaisse;0609602884;f;45, Chemin Du Lavarin Sud CAEN;14000;8;25;1967;Z9xJ815crapU
+Fauna;Busque;FaunaBusque@armyspy.com;FaunaBusque;0627635326;m;88, rue Adolphe Wurtz LE ROBERT;97231;10;2;1999;JIFAp1slV2BS
+Tristan;Robert;TristanRobert@armyspy.com;TristanRobert;0677502383;m;36, rue Bonneterie MILLAU;12100;7;26;1923;N9Xtg6DbEwuL
+Bruce;Vachon;BruceVachon@rhyta.com;BruceVachon;0623494688;m;47, boulevard Bryas CRÉTEIL;94000;4;15;1927;8x12U0X4Aftk
+Jacqueline;Dufour;JacquelineDufour@teleworm.us;JacquelineDufour;0671072836;m;27, rue de Lille AUBAGNE;13400;11;28;1987;OR6Vvo0YzcJw
+Sophie;Faure;SophieFaure@armyspy.com;SophieFaure;0642653881;m;21, rue Gustave Eiffel ROANNE;42300;1;23;1939;0ESC4TeYrzDq
+Ray;Langelier;RayLangelier@armyspy.com;RayLangelier;0647502575;f;79, rue des six frères Ruellan SARREGUEMINES;57200;9;21;1993;MRLod2nFPzVE
+Eugenia;Martel;EugeniaMartel@jourrapide.com;EugeniaMartel;0645475616;f;94, rue Banaudon LYON;69007;1;7;1942;Y4gGfJtOjXBx
+Somer;Barrette;SomerBarrette@rhyta.com;SomerBarrette;0668879977;m;51, rue des lieutemants Thomazo DOUAI;59500;2;20;1986;dLZ00zijvDu2
+Legget;Poulin;LeggetPoulin@teleworm.us;LeggetPoulin;0654705321;m;72, rue Pierre De Coubertin TOULOUSE;31300;11;19;1964;ZJtECi0HcuKs
+Arianne;Bonenfant;ArianneBonenfant@jourrapide.com;ArianneBonenfant;0694700209;m;61, place de Miremont VILLEPARISIS;77270;10;3;1985;DrwU4CsZBOMX
+Charlotte;Dandonneau;CharlotteDandonneau@teleworm.us;CharlotteDandonneau;0660816216;m;92, rue Pierre Motte SAINTE-ANNE;97180;7;28;1983;bYoRA6TJB5C0
+Agathe;Auger;AgatheAuger@armyspy.com;AgatheAuger;0615579246;f;98, Rue Frédéric Chopin VESOUL;70000;1;11;1947;wJoc7p4OY9DQ
+Delmar;Covillon;DelmarCovillon@armyspy.com;DelmarCovillon;0664290663;m;42, boulevard Bryas CREIL;60100;11;25;1965;haCOBJg2e4uK
+Ermengardi;Busson;ErmengardiBusson@dayrep.com;ErmengardiBusson;0646746293;m;51, Avenue De Marlioz ARLES;13200;3;10;1977;Hwb6Ez7tmd3Q
+Philip;Beauchemin;PhilipBeauchemin@rhyta.com;PhilipBeauchemin;0691839440;m;70, rue de Penthièvre PONTOISE;95000;6;28;1997;JvQMXRhb7DrT
+Sydney;Beaulieu;SydneyBeaulieu@rhyta.com;SydneyBeaulieu;0624224372;f;3, boulevard Albin Durand CERGY;95800;5;13;1967;ewB64GN3cmdM
+Leroy;Lacasse;LeroyLacasse@teleworm.us;LeroyLacasse;0659866978;m;6, Chemin Challet LILLE;59000;9;24;1968;ZWYuP43VAIq2
+Fanchon;Brochu;FanchonBrochu@armyspy.com;FanchonBrochu;0628745128;m;32, rue Isambard FRÉJUS;83600;5;9;1990;68kdr1UAyDIJ
+Avelaine;Parizeau;AvelaineParizeau@dayrep.com;AvelaineParizeau;0674131111;m;1, Place Napoléon LAON;02000;12;23;1997;5PrutOWk79BV
+Huon;Chesnay;HuonChesnay@armyspy.com;HuonChesnay;0668740260;f;36, Rue Joseph Vernet BAR-LE-DUC;55000;9;11;1957;yp56mhCwV9rz
+Hilaire;Lemaître;HilaireLemaitre@teleworm.us;HilaireLemaitre;0630538045;f;52, rue de Groussay RODEZ;12000;12;3;1953;3QRAkW2eEP0m
+Vail;Simard;VailSimard@teleworm.us;VailSimard;0658231536;f;80, boulevard Aristide Briand LE CREUSOT;71200;9;22;1926;xaZ10KldEPmt
+Matthieu;Ducharme;MatthieuDucharme@rhyta.com;MatthieuDucharme;0641644325;m;51, rue Pierre De Coubertin TOULOUSE;31300;8;23;1970;CplD0NdVtIWM
+Leone;Doucet;LeoneDoucet@jourrapide.com;LeoneDoucet;0680618688;m;64, Chemin Des Bateliers ANNECY;74000;4;6;1942;l1UIRVgKrQ3Z
+Orville;Boncoeur;OrvilleBoncoeur@teleworm.us;OrvilleBoncoeur;0622986453;f;87, rue du Paillle en queue LEVALLOIS-PERRET;92300;7;19;1940;4V0FzlY06Rms
+Corinne;Ailleboust;CorinneAilleboust@armyspy.com;CorinneAilleboust;0660744095;m;80, rue Pierre Motte SAINT-DIÉ;88100;7;18;1925;ymLHskTp0jv9
+Slainie;Huppé;SlainieHuppe@rhyta.com;SlainieHuppe;0684190638;f;1, rue Nationale PARIS;75006;3;19;1959;T6wduLgkUmF5
+Arber;Brunault;ArberBrunault@armyspy.com;ArberBrunault;0665669994;m;63, rue Gustave Eiffel RIS-ORANGIS;91000;5;9;1964;i0veIGbXrdKB
+Aya;Lajoie;AyaLajoie@dayrep.com;AyaLajoie;0667237230;m;20, rue Marguerite VINCENNES;94300;6;14;1940;cpjzT97bJqmg
+Henriette;Majory;HenrietteMajory@armyspy.com;HenrietteMajory;0670306534;m;93, Rue Frédéric Chopin VESOUL;70000;1;4;1945;RMzpgwUQfe4i
+Curtis;Sirois;CurtisSirois@armyspy.com;CurtisSirois;0677861461;f;91, rue Clement Marot PIERREFITTE-SUR-SEINE;93380;12;18;1939;RMDZBpivdUY9
+Millicent;Chevrette;MillicentChevrette@armyspy.com;MillicentChevrette;0622695599;f;3, Boulevard de Normandie FONTENAY-SOUS-BOIS;94120;3;9;1982;c07BDrJbv9ip
+Merle;Bernier;MerleBernier@armyspy.com;MerleBernier;0636795593;f;33, rue du Gue Jacquet CHÂTILLON;92320;9;11;1961;RBVNmTCb4Ioj
+Marlon;Laboissonnière;MarlonLaboissonniere@rhyta.com;MarlonLaboissonniere;0687747733;f;65, rue Saint Germain GIF-SUR-YVETTE;91190;9;24;1933;vkPd3ZL4e8DT
+Berangaria;Quirion;BerangariaQuirion@jourrapide.com;BerangariaQuirion;0670647103;f;11, rue Bonneterie MONTBÉLIARD;25200;8;26;1935;sQeSfPCcq2rT
+Hamilton;Guibord;HamiltonGuibord@dayrep.com;HamiltonGuibord;0649440837;f;93, rue Gustave Eiffel REZÉ;44400;2;4;1934;nkyh0ToU2Gei
+Campbell;Lanctot;CampbellLanctot@dayrep.com;CampbellLanctot;0612818508;f;70, rue Isambard FOUGÈRES;35300;4;27;1964;BpGu0LEXlwSd
+Renée;Laramée;ReneeLaramee@jourrapide.com;ReneeLaramee;0677841249;m;57, Place Napoléon LE BLANC-MESNIL;93150;6;6;1966;0hWjE2F1cyxL
+Wyatt;Carrière;WyattCarriere@teleworm.us;WyattCarriere;0677142795;m;32, Rue Bonnet VITRY-SUR-SEINE;94400;2;14;1938;NseIxV2BCqEH
+Crescent;Blanchard;CrescentBlanchard@teleworm.us;CrescentBlanchard;0633709582;f;27, rue Gontier-Patin AGDE;34300;7;7;1992;rSLh6tbWVOIq
+Pauline;Dagenais;PaulineDagenais@rhyta.com;PaulineDagenais;0657114214;m;38, Quai des Belges MASSY;91300;9;13;1973;FkUES9WpvPqn
+Auguste;Vadeboncoeur;AugusteVadeboncoeur@teleworm.us;AugusteVadeboncoeur;0613463953;f;42, route de Lyon ILLKIRCH-GRAFFENSTADEN;67400;8;6;1920;0zVCcr1RwOPi
+Rive;Guertin;RiveGuertin@rhyta.com;RiveGuertin;0668596230;m;9, rue Reine Elisabeth MELUN;77000;2;22;1952;v8Lk7n4pUd6u
+Thérèse;Lafond;ThereseLafond@teleworm.us;ThereseLafond;0653635905;f;68, rue Pierre Motte SAINT-DENIS;97400;11;8;1920;gIzew8h5AXKJ
+Simone;Pitre;SimonePitre@armyspy.com;SimonePitre;0637261245;m;71, Boulevard de Normandie FONTENAY-SOUS-BOIS;94120;4;15;1986;sdMHRQjEGP6v
+Amélie;Bélanger;AmelieBelanger@teleworm.us;AmelieBelanger;0698940307;m;50, rue des Chaligny NEVERS;58000;7;25;1958;opnSeIGzsBuM
+Loyal;Lalonde;LoyalLalonde@dayrep.com;LoyalLalonde;0639438610;f;93, boulevard de la Liberation MARSEILLE;13014;4;11;1946;H9vCmG0dIpSE
+Hugh;Maheu;HughMaheu@teleworm.us;HughMaheu;0671424012;f;42, Rue Hubert de Lisle LORIENT;56100;10;19;1950;S04aZhgUEeKG
+Brice;Achin;BriceAchin@armyspy.com;BriceAchin;0615783443;f;57, boulevard de la Liberation MARSEILLE;13014;6;1;1925;2FiPCH6xL0Ij
+Madelene;Rossignol;MadeleneRossignol@armyspy.com;MadeleneRossignol;0689830874;f;77, boulevard Aristide Briand LE GRAND-QUEVILLY;76120;1;7;1994;I7q94UdizOuR
+Yvette;Givry;YvetteGivry@teleworm.us;YvetteGivry;0672071709;f;63, boulevard de la Liberation MARSEILLE;13011;7;27;1947;2uCDnj6PMKEr
+Alaine;Séguin;AlaineSeguin@rhyta.com;AlaineSeguin;0674738499;f;6, Place du Jeu de Paume VIERZON;18100;6;9;1989;vbjwBo6p3yRE
+Paulette;Echeverri;PauletteEcheverri@rhyta.com;PauletteEcheverri;0687636629;m;75, rue Banaudon LYON;69007;11;28;1920;16ZPvxViXu0d
+Christine;Bourassa;ChristineBourassa@armyspy.com;ChristineBourassa;0634357258;f;7, avenue Ferdinand de Lesseps GRENOBLE;38100;2;1;1955;DJKsNxVzgqnm
+Vick;Viens;VickViens@dayrep.com;VickViens;0638705424;m;37, Avenue des Pr'es MONTIGNY-LE-BRETONNEUX;78180;10;19;1958;pM9x0jmOPDQ4
+Raoul;Meunier;RaoulMeunier@teleworm.us;RaoulMeunier;0628446186;f;83, boulevard de Prague NOGENT-SUR-MARNE;94130;9;6;1925;Z3uv1F4mKDJs
+Allyriane;Dionne;AllyrianeDionne@armyspy.com;AllyrianeDionne;0693026685;f;67, cours Jean Jaures BORDEAUX;33200;4;20;1960;JuaMAdiGtHyz
+Jewel;Gamelin;JewelGamelin@armyspy.com;JewelGamelin;0660839271;m;28, Avenue Millies Lacroix ÉCHIROLLES;38130;5;16;1921;ibWheC4OJpo3
+Astolpho;Marseau;AstolphoMarseau@dayrep.com;AstolphoMarseau;0640279764;m;3, avenue Jean Portalis TOURS;37200;8;20;1931;TWJ8QypxPhul
+Caroline;Tessier;CarolineTessier@teleworm.us;CarolineTessier;0603174382;f;9, rue des Coudriers MULHOUSE;68100;1;15;1959;aWJFLpZ1hSRz
+Agrican;Lachance;AgricanLachance@teleworm.us;AgricanLachance;0614033312;m;32, boulevard Albin Durand CHAMBÉRY;73000;8;9;1991;M92esI5LaWBi
+Alfred;Camus;AlfredCamus@jourrapide.com;AlfredCamus;0656225696;m;42, rue Pierre Motte SAINT-DENIS;97400;10;5;1985;mTrQDpSzAx9L
+Florus;De;FlorusDeLaVergne@teleworm.us;FlorusDeLaVergne;0658350351;m;37, rue Gouin de Beauchesne SAINT-MICHEL-SUR-ORGE;91240;10;6;1933;vfJUG1sDVdqe
+Pomeroy;Lafond;PomeroyLafond@dayrep.com;PomeroyLafond;0683457558;f;5, rue du Faubourg National TARBES;65000;1;25;1960;LOwKEt7BkR8l
+Burnell;Jalbert;BurnellJalbert@rhyta.com;BurnellJalbert;0692377562;m;59, rue Jean Vilar BELFORT;90000;6;21;1987;HUgShv5rIzLs
+William;Grignon;WilliamGrignon@dayrep.com;WilliamGrignon;0667448978;f;52, rue du Clair Bocage LA ROCHE-SUR-YON;85000;1;12;1955;x9lQMNL7ZdJX
+Sidney;Migneault;SidneyMigneault@armyspy.com;SidneyMigneault;0689049236;m;32, quai Saint-Nicolas TOURNEFEUILLE;31170;2;11;1991;Ynq9TMGKyxfS
+Xarles;Querry;XarlesQuerry@armyspy.com;XarlesQuerry;0669175217;f;18, Place du Jeu de Paume VILLEJUIF;94800;9;8;1946;UWPz5e7yCIGc
+Edmee;Casgrain;EdmeeCasgrain@armyspy.com;EdmeeCasgrain;0649342056;f;18, rue Victor Hugo CORBEIL-ESSONNES;91100;3;24;1959;N0UIyD2ASdkZ
+Varden;Baril;VardenBaril@jourrapide.com;VardenBaril;0647125582;f;21, Square de la Couronne PANTIN;93500;3;15;1956;iOTrwx6fEY7G
+Delphine;Rivard;DelphineRivard@teleworm.us;DelphineRivard;0619132943;f;50, Chemin des Bateliers AJACCIO;20090;1;14;1967;TXU4QatSdyBn
+Henri;Lamontagne;HenriLamontagne@jourrapide.com;HenriLamontagne;0616513167;m;59, boulevard Amiral Courbet OULLINS;69600;9;6;1998;jmMDNkR6nEhZ
+Merlin;Deblois;MerlinDeblois@armyspy.com;MerlinDeblois;0693683676;f;44, rue Pierre De Coubertin TOULOUSE;31000;7;26;1970;UWBtnylauLXK
+Esmeraude;Dennis;EsmeraudeDennis@armyspy.com;EsmeraudeDennis;0607914555;m;59, place de Miremont VILLEPARISIS;77270;5;27;1968;wGV0KJpIF6vl
+Amabella;Marois;AmabellaMarois@rhyta.com;AmabellaMarois;0633623888;m;41, rue du Fossé des Tanneurs THONON-LES-BAINS;74200;5;25;1936;A9BTdsELztSV
+Vincent;Louis;VincentLouis@armyspy.com;VincentLouis;0682652689;f;99, rue Bonneterie MONS-EN-BAROEUL;59370;2;17;1942;nOjpmK93rUX6
+Sabine;de;SabinedeChateaub@rhyta.com;SabinedeChateaub;0680630474;f;96, rue Beauvau MARSEILLE;13003;6;28;1937;rJKuzR3Is7WT
+Fayme;Lagrange;FaymeLagrange@rhyta.com;FaymeLagrange;0617433598;f;58, rue Marie de Médicis BLAGNAC;31700;5;20;1999;TFl7yLcxn5IJ
+Sidney;Lazure;SidneyLazure@armyspy.com;SidneyLazure;0687906500;m;19, rue du Faubourg National THIAIS;94320;1;23;1984;bJOiQ1EGNXSs
+Sébastien;Lamarre;SebastienLamarre@armyspy.com;SebastienLamarre;0694842382;f;71, rue du Paillle en queue L'HAŸ-LES-ROSES;94240;8;12;1928;PyqgmDz23dtU
+Verney;CinqMars;VerneyCinqMars@rhyta.com;VerneyCinqMars;0680115212;m;52, rue Léon Dierx LISIEUX;14100;10;21;1978;bdAmzI5NxpUj
+Astrid;de;AstriddeLaunay@rhyta.com;AstriddeLaunay;0663312851;f;96, Avenue De Marlioz ARGENTEUIL;95100;10;15;1958;ru3Xlcb7RzOi
+Adélaïde;Bédard;AdelaideBedard@armyspy.com;AdelaideBedard;0603006449;m;54, Quai des Belges MASSY;91300;4;4;1984;TOMJSn4FaZC0
+Pénélope;Boulanger;PenelopeBoulanger@dayrep.com;PenelopeBoulanger;0687263157;f;43, Place de la Madeleine PARIS;75009;4;5;1941;HXyu09JP8CNK
+Cerise;Blondlot;CeriseBlondlot@teleworm.us;CeriseBlondlot;0609306499;f;70, Rue de Strasbourg CLICHY-SOUS-BOIS;93390;7;18;1920;FwguiEmxXSDK
+Melisande;Deblois;MelisandeDeblois@dayrep.com;MelisandeDeblois;0684331096;m;91, rue du Paillle en queue LEVALLOIS-PERRET;92300;12;16;1936;EhVO7l0qXtJI
+Eleanor;Allaire;EleanorAllaire@jourrapide.com;EleanorAllaire;0630876944;m;52, Rue Joseph Vernet BAGNOLET;93170;1;28;1946;WT4o0Dw3vSql
+Germain;Clément;GermainClement@dayrep.com;GermainClement;0671316576;m;71, Rue du Limas BASSE-TERRE;97100;6;25;1922;scZtvdOnXq6p
+Fayme;Daigneault;FaymeDaigneault@teleworm.us;FaymeDaigneault;0666230349;f;8, rue des lieutemants Thomazo DIGNE-LES-BAINS;04000;2;13;1997;sSp1chotMq2g
+Travers;Chatigny;TraversChatigny@armyspy.com;TraversChatigny;0666203793;f;98, rue Ernest Renan CHERBOURG;50100;1;3;1939;zhETqrf9sgMD
+Saville;Galarneau;SavilleGalarneau@teleworm.us;SavilleGalarneau;0693835356;m;97, rue de la République LYON;69003;3;1;1939;0nupLwjF3Axz
+Berangaria;Beaudry;BerangariaBeaudry@rhyta.com;BerangariaBeaudry;0680650557;m;55, rue du Clair Bocage LA VARENNE-SAINT-HILAIRE;94210;12;1;1948;dfUJo8jrT0bQ
+Mason;Bergeron;MasonBergeron@rhyta.com;MasonBergeron;0655407201;f;81, rue du Fossé des Tanneurs TOULON;83200;3;23;1996;8aZdHEcwg6BC
+Lucille;Giroux;LucilleGiroux@jourrapide.com;LucilleGiroux;0637355012;f;86, rue du Faubourg National THIONVILLE;57100;7;12;1945;hOwmzPvdapn3
+Arienne;Lemaître;ArienneLemaitre@armyspy.com;ArienneLemaitre;0612780312;f;23, rue du Gue Jacquet CHÂTENAY-MALABRY;92290;11;17;1938;opcG49vUqKfH
+Louise;Trépanier;LouiseTrepanier@rhyta.com;LouiseTrepanier;0620851689;m;43, Boulevard de Normandie FORT-DE-FRANCE;97200;1;10;1990;61G0Hs20Sbt9
+Comforte;Frappier;ComforteFrappier@dayrep.com;ComforteFrappier;0612167083;f;41, avenue de Bouvines SCHOELCHER;97233;8;2;1960;vM9X154Eh2Yj
+Tyson;Boisclair;TysonBoisclair@teleworm.us;TysonBoisclair;0621842211;m;16, rue de l'Epeule ROUEN;76000;1;27;1941;65pJwEaKM7mj
+Angelique;Carrière;AngeliqueCarriere@rhyta.com;AngeliqueCarriere;0676838561;f;79, rue de Groussay ROSNY-SOUS-BOIS;93110;10;8;1933;i0u671LgAxPt
+Octave;Deslauriers;OctaveDeslauriers@armyspy.com;OctaveDeslauriers;0687920214;m;44, rue Gustave Eiffel RILLIEUX-LA-PAPE;69140;12;1;1985;M3usTZAaPUne
+Dominic;Jomphe;DominicJomphe@rhyta.com;DominicJomphe;0638204810;f;62, rue Marguerite VINCENNES;94300;2;25;1982;zjNMHqB0KZ9D
+Dominique;Sylvain;DominiqueSylvain@dayrep.com;DominiqueSylvain;0639295851;m;66, rue de la Boétie PLAISIR;78370;7;21;1974;V4AL9twCjNUy
+Émile;Guilmette;EmileGuilmette@dayrep.com;EmileGuilmette;0605099309;m;11, rue Gontier-Patin AGDE;34300;3;18;1996;jbBvA5WMJngU
+Jay;Bouchard;JayBouchard@rhyta.com;JayBouchard;0681057674;m;68, rue des Dunes SAINT-MARTIN;97150;8;21;1969;A8Bro4sUnpGj
+Audrey;L'Hiver;AudreyLHiver@armyspy.com;AudreyLHiver;0606662853;f;29, Place du Jeu de Paume VILLEJUIF;94800;2;15;1948;rAcGy8YlvpLi
+Lorraine;Tétrault;LorraineTetrault@armyspy.com;LorraineTetrault;0648406730;m;65, rue de Groussay ROMANS-SUR-ISÈRE;26100;1;22;1921;WJM7f1t2dhsp
+Xavier;Lamoureux;XavierLamoureux@teleworm.us;XavierLamoureux;0652385386;f;21, rue des Dunes SAINT-MAUR-DES-FOSSÈS;94100;12;27;1993;AiUdrI2owZ75
+Amabella;Carrière;AmabellaCarriere@dayrep.com;AmabellaCarriere;0653635767;f;38, cours Franklin Roosevelt MARSEILLE;13008;3;21;1987;CDbUaf2hMYIe
+Richard;Bossé;RichardBosse@jourrapide.com;RichardBosse;0642306898;f;29, boulevard Albin Durand CHÂLONS-EN-CHAMPAGNE;51000;10;17;1952;AQ5WKcswE206
+Turner;Vadeboncoeur;TurnerVadeboncoeur@armyspy.com;TurnerVadeboncoeur;0698055299;m;98, rue Nationale PARIS;75005;8;28;1974;C8iDjHfNWwmQ
+Hortense;Bouvier;HortenseBouvier@jourrapide.com;HortenseBouvier;0679437133;f;56, place Maurice-Charretier CHAMPS-SUR-MARNE;77420;9;27;1952;Lr09dKy2WcuI
+Frédérique;Hervé;FrederiqueHerve@armyspy.com;FrederiqueHerve;0688457779;f;91, Rue de Verdun MONT-DE-MARSAN;40000;7;10;1959;MthFVRwq1W9H
+Charlot;Gingras;CharlotGingras@teleworm.us;CharlotGingras;0648055246;m;1, cours Jean Jaures BORDEAUX;33300;5;14;1953;Ch8toplW3jOq
+Blanchefle;Marier;BlanchefleMarier@teleworm.us;BlanchefleMarier;0632401789;f;82, rue Marie de Médicis BÉZIERS;34500;10;22;1966;hjKTlu0t2JmU
+Parnella;David;ParnellaDavid@rhyta.com;ParnellaDavid;0686751071;f;64, rue du Président Roosevelt SARTROUVILLE;78500;8;27;1977;vdoKOMAalIrX
+Alexandrie;Brousseau;AlexandrieBrousseau@teleworm.us;AlexandrieBrousseau;0669812900;f;1, avenue de l'Amandier BOIS-COLOMBES;92270;12;23;1957;TrVJM9cLlBK0
+Avice;Chenard;AviceChenard@rhyta.com;AviceChenard;0613187939;f;90, avenue de l'Amandier BOIS-COLOMBES;92270;7;11;1951;kWa3sA2Pbrfw
+Aurore;Pelletier;AurorePelletier@dayrep.com;AurorePelletier;0688405898;f;30, Place du Jeu de Paume VIERZON;18100;3;2;1923;Ul0etAwDPc7k
+Alaine;Panetier;AlainePanetier@armyspy.com;AlainePanetier;0699439337;f;79, rue des Dunes SAINT-MAUR-DES-FOSSÈS;94100;10;21;1998;00NQRlBi41P3
+Daniel;Aucoin;DanielAucoin@armyspy.com;DanielAucoin;0639351248;f;2, rue Cazade DUNKERQUE;59140;2;22;1996;86rX4YEauR50
+Avice;Lejeune;AviceLejeune@jourrapide.com;AviceLejeune;0665719055;f;99, rue du Paillle en queue LEVALLOIS-PERRET;92300;11;5;1985;ryBmnbwKhZGl
+Rosemarie;Bélair;RosemarieBelair@rhyta.com;RosemarieBelair;0628713054;m;18, Rue du Palais ÉTAMPES;91150;7;24;1925;ghxNq8VYTu0A
+Fifine;Lafontaine;FifineLafontaine@teleworm.us;FifineLafontaine;0684775482;f;55, avenue de Bouvines SEDAN;08200;3;2;1959;YTzn6FyJc03t
+Arthur;Goddu;ArthurGoddu@dayrep.com;ArthurGoddu;0679780595;m;57, rue du Fossé des Tanneurs TOULON;83100;10;28;1991;tUczCHdx7pOi
+Guy;Sorel;GuySorel@armyspy.com;GuySorel;0675319516;f;4, rue des Nations Unies SAINT-BENOÎT;97470;9;25;1982;rBZkCe02EUiP
+Amber;Austin;AmberAustin@armyspy.com;AmberAustin;0640498966;f;38, rue Charles Corbeau ÉVREUX;27000;3;19;1995;I5TQ80wNoCaV
+Nadine;Angélil;NadineAngelil@rhyta.com;NadineAngelil;0610881279;f;88, rue de la Boétie POITIERS;86000;11;4;1993;1Uu8aPS6GheD
+Ernest;Sylvain;ErnestSylvain@armyspy.com;ErnestSylvain;0652080183;f;70, rue du Clair Bocage LA ROCHE-SUR-YON;85000;8;17;1938;ONTzW0DrSKQB
+Warrane;Aubé;WarraneAube@armyspy.com;WarraneAube;0620733517;f;69, rue de Groussay ROCHEFORT;17300;7;1;1932;IF5H6kwjQKz2
+Roland;Beauchemin;RolandBeauchemin@dayrep.com;RolandBeauchemin;0688301986;f;88, rue Sébastopol SAINT-ÉTIENNE;42000;6;7;1940;RDbZjygnK6kA
+Orson;Audet;OrsonAudet@dayrep.com;OrsonAudet;0636105658;f;26, Quai des Belges MARTIGUES;13500;11;9;1966;zZXybNcfBA5I
+Favor;Charlesbois;FavorCharlesbois@armyspy.com;FavorCharlesbois;0613244761;f;21, rue de la Hulotais SAINT-RAPHAËL;83700;8;18;1952;7pZn5yCkirtg
+Amélie;Forest;AmelieForest@armyspy.com;AmelieForest;0636195687;f;11, avenue de Bouvines SEVRAN;93270;9;6;1967;AMQV9DEhSsLf
+Channing;Brousseau;ChanningBrousseau@jourrapide.com;ChanningBrousseau;0604241222;f;25, avenue Ferdinand de Lesseps GRANDE-SYNTHE;59760;1;21;1945;NsjOCv2FSY0R
+Bertrand;Camus;BertrandCamus@dayrep.com;BertrandCamus;0677265578;m;5, Avenue De Marlioz ANTIBES;06600;1;12;1926;l9KSWDO0hqZy
+Raina;Paiement;RainaPaiement@rhyta.com;RainaPaiement;0618576992;f;3, rue du Paillle en queue LIBOURNE;33500;9;27;1941;5O0zF1lcgVsj
+Flordelis;Gosselin;FlordelisGosselin@armyspy.com;FlordelisGosselin;0667781372;f;34, Avenue De Marlioz ARGENTEUIL;95100;5;15;1997;4vqD3EzbgrNG
+Anastasie;Tollmache;AnastasieTollmache@dayrep.com;AnastasieTollmache;0644998414;f;8, rue Clement Marot PIERREFITTE-SUR-SEINE;93380;9;11;1971;k0EUQVvlqG2H
+Medoro;Deschênes;MedoroDeschenes@jourrapide.com;MedoroDeschenes;0641569204;f;31, Rue Joseph Vernet AVIGNON;84000;1;4;1928;wcFWXtsaSM5Q
+Senior;Goulet;SeniorGoulet@dayrep.com;SeniorGoulet;0623411587;m;21, rue des Dunes SAINT-MALO;35400;10;22;1935;hubYJL0PlW2T
+Christophe;Faubert;ChristopheFaubert@teleworm.us;ChristopheFaubert;0639895538;f;30, place Stanislas NANTES;44000;4;26;1932;FvsyXruOW6Yb
+Élisabeth;Bonami;ElisabethBonami@armyspy.com;ElisabethBonami;0676752300;f;98, rue Gontier-Patin AIX-EN-PROVENCE;13090;11;19;1985;E6zUrCuPpZGR
+Fletcher;Parmentier;FletcherParmentier@dayrep.com;FletcherParmentier;0655185044;f;5, rue de Penthièvre QUIMPER;29000;6;17;1924;B7lrb3WcFTm8
+Merci;Chastain;MerciChastain@dayrep.com;MerciChastain;0666481688;f;68, rue Isambard FORT-DE-FRANCE;97234;4;1;1920;DR0hS8mnglOv
+Ignace;Marseau;IgnaceMarseau@dayrep.com;IgnaceMarseau;0611106859;m;77, rue des lieutemants Thomazo DOUAI;59500;7;22;1922;0AtWKOEQI9l6
+Latimer;Panetier;LatimerPanetier@dayrep.com;LatimerPanetier;0654911999;m;87, Rue Frédéric Chopin VERSAILLES;78000;5;5;1972;tdR9iBuP2eYO
+Gemma;Bureau;GemmaBureau@teleworm.us;GemmaBureau;0623984393;f;38, rue Pierre Motte SAINTE-FOY-LÈS-LYON;69110;6;8;1952;Npb2ui5R0odX
+Odelette;Lepage;OdeletteLepage@armyspy.com;OdeletteLepage;0642942522;m;52, Place du Jeu de Paume VIERZON;18100;1;25;1982;rpCmkUYKh5Tu
+Avril;Metivier;AvrilMetivier@dayrep.com;AvrilMetivier;0678566710;f;41, quai Saint-Nicolas TOURS;37000;11;13;1986;ktNiyhb0A7Pl
+Fayme;Thériault;FaymeTheriault@armyspy.com;FaymeTheriault;0607698387;f;38, avenue de Provence VALENCIENNES;59300;5;25;1969;iw10D72OFuaT
+Apolline;Varieur;ApollineVarieur@dayrep.com;ApollineVarieur;0632321648;f;79, cours Jean Jaures BORDEAUX;33200;6;25;1962;kHRAjwd9vebc
+Xavier;Loiselle;XavierLoiselle@armyspy.com;XavierLoiselle;0679413394;f;22, rue de Groussay ROCHEFORT;17300;9;25;1922;uYwLn3V4Z1zm
+Ranger;Dandonneau;RangerDandonneau@jourrapide.com;RangerDandonneau;0632847598;f;40, rue Beauvau MARSEILLE;13002;3;3;1937;byvlDEgV4Map
+Henry;Hervieux;HenryHervieux@rhyta.com;HenryHervieux;0691299967;m;38, boulevard d'Alsace VÉLIZY-VILLACOUBLAY;78140;12;27;1996;4rw5lXOav0Te
+Satordi;Dumoulin;SatordiDumoulin@rhyta.com;SatordiDumoulin;0681612995;f;24, rue des Nations Unies SAINT-BENOÎT;97470;3;22;1930;0MvaT8d4x63P
+Roslyn;Ferland;RoslynFerland@rhyta.com;RoslynFerland;0621553648;f;88, Quai des Belges MAUBEUGE;59600;5;11;1990;Ou21mz5nPtyU
+Denis;Lampron;DenisLampron@teleworm.us;DenisLampron;0670906567;m;43, rue Léon Dierx LISIEUX;14100;1;25;1940;ZKmxPivgCnc1
+Malagigi;Lamothe;MalagigiLamothe@jourrapide.com;MalagigiLamothe;0602698838;m;53, rue Clement Marot PIERREFITTE-SUR-SEINE;93380;5;26;1954;QdJ0XvT0ejKi
+Edmee;Gendron;EdmeeGendron@teleworm.us;EdmeeGendron;0607995104;f;44, rue Marie de Médicis BIARRITZ;64200;2;28;1934;lbtQ4pEVxJWa
+Albertine;Riquier;AlbertineRiquier@jourrapide.com;AlbertineRiquier;0664572281;m;93, rue des Coudriers MULHOUSE;68200;6;26;1967;u0H6KqI7niF2
+Julie;CinqMars;JulieCinqMars@dayrep.com;JulieCinqMars;0633322535;f;64, rue Ernest Renan CHAUMONT;52000;5;7;1967;ELqaK4gzf7ZH
+Karlotta;Lacombe;KarlottaLacombe@jourrapide.com;KarlottaLacombe;0615113000;m;91, quai Saint-Nicolas TOURS;37000;10;20;1968;1iDlrKjdkPv3
+Aloin;Aupry;AloinAupry@jourrapide.com;AloinAupry;0695650882;f;82, cours Jean Jaures BORDEAUX;33300;2;19;1945;8TkjaOfr2Vbz
+Marsilius;Tougas;MarsiliusTougas@rhyta.com;MarsiliusTougas;0617315679;f;88, Faubourg Saint Honoré PARIS;75020;7;27;1991;3X5kH10CUop2
+Vincent;Bazinet;VincentBazinet@armyspy.com;VincentBazinet;0658350856;f;55, Square de la Couronne OZOIR-LA-FERRIÈRE;77330;1;7;1946;YES2ujQMpt0C
+Brie;Bonnet;BrieBonnet@rhyta.com;BrieBonnet;0679385496;m;69, avenue de Bouvines SÈTE;34200;1;6;1937;x5dN0CEjRyv8
+Aubin;Desnoyer;AubinDesnoyer@rhyta.com;AubinDesnoyer;0680813264;m;38, rue Reine Elisabeth MELUN;77000;12;25;1980;LBYHXIhg2sCp
+Curtis;Couturier;CurtisCouturier@teleworm.us;CurtisCouturier;0642510530;f;41, rue des Lacs HÉNIN-BEAUMONT;62110;8;25;1947;WzoDRgN03vr1
+Thérèse;Quessy;ThereseQuessy@jourrapide.com;ThereseQuessy;0634447184;m;14, rue La Boétie PARIS;75016;9;8;1982;DgTM1y3j6l9J
+Adèle;Bellemare;AdeleBellemare@dayrep.com;AdeleBellemare;0659996573;m;1, Rue du Palais ERMONT;95120;12;16;1924;APV9cXEyrCvd
+Brigitte;Michaud;BrigitteMichaud@teleworm.us;BrigitteMichaud;0639090503;m;32, Rue de la Pompe MANTES-LA-JOLIE;78200;2;6;1966;XRgiqIs9UHOw
+Josephe;Monjeau;JosepheMonjeau@dayrep.com;JosepheMonjeau;0670083051;m;82, rue Grande Fusterie BRUAY-LA-BUISSIÈRE;62700;2;2;1955;vXST904xIGkA
+Gay;Boulanger;GayBoulanger@teleworm.us;GayBoulanger;0686264067;m;50, rue Marie de Médicis BÉTHUNE;62400;7;14;1926;ro87Ic24mJFB
+Romaine;Fournier;RomaineFournier@jourrapide.com;RomaineFournier;0683787064;f;11, Chemin Challet LILLE;59800;11;27;1966;hQluTWxi258b
+Trinette;Guilmette;TrinetteGuilmette@rhyta.com;TrinetteGuilmette;0620601424;f;13, rue des six frères Ruellan SARCELLES;95200;12;13;1998;tgYPW0w6mBkO
+Julie;Lemelin;JulieLemelin@teleworm.us;JulieLemelin;0689131834;f;29, rue de la République LYON;69004;4;4;1935;UqSsVtrkTC09
+René;Hachée;ReneHachee@armyspy.com;ReneHachee;0648495141;m;35, rue Léon Dierx LIVRY-GARGAN;93190;12;13;1997;8EzKOFW60Csc
+Yvette;Charette;YvetteCharette@jourrapide.com;YvetteCharette;0617542584;m;41, rue Bonneterie MONTBÉLIARD;25200;8;26;1969;ZnKC1hadetiu
+Julien;Dubois;JulienDubois@armyspy.com;JulienDubois;0621596281;f;76, rue de Groussay ROCHEFORT;17300;6;5;1925;8MB5NwEKYfpT
+Bradamate;Descoteaux;BradamateDescoteaux@rhyta.com;BradamateDescoteaux;0668702091;f;72, rue Pierre Motte SAINTE-FOY-LÈS-LYON;69110;3;24;1937;S9zelKJ6LI28
+Henri;Bélair;HenriBelair@armyspy.com;HenriBelair;0665990234;m;70, rue Marguerite VINCENNES;94300;11;21;1998;x0Q98rb4ujVG
+Audric;Dupont;AudricDupont@teleworm.us;AudricDupont;0629556970;m;52, Rue Hubert de Lisle LUNEL;34400;7;25;1971;EGCTcqWPhFz0
+Vick;Béland;VickBeland@jourrapide.com;VickBeland;0600407861;m;33, rue Léon Dierx LOMME;59160;12;18;1966;9TuNR86QqCy4
+Quincy;Charrette;QuincyCharrette@rhyta.com;QuincyCharrette;0696425869;m;36, rue Gustave Eiffel REZÉ;44400;7;23;1974;d4jmZOH5pAlC
+Arnaud;Allard;ArnaudAllard@jourrapide.com;ArnaudAllard;0614968444;m;64, rue du Fossé des Tanneurs THONON-LES-BAINS;74200;10;4;1977;49gLcdDKkIUY
+Pascal;Bouvier;PascalBouvier@armyspy.com;PascalBouvier;0685883888;f;51, Rue Bonnet WATTRELOS;59150;11;8;1972;x8ucb5SniaMk
+Talon;Perillard;TalonPerillard@jourrapide.com;TalonPerillard;0656396658;f;57, Place de la Gare COGNAC;16100;8;24;1945;q3n6SfJg89ld
+Denise;Garnier;DeniseGarnier@teleworm.us;DeniseGarnier;0644723661;f;96, rue Jean Vilar BÈGLES;33130;6;23;1966;zZNwAcorHsqu
+Julien;Bernard;JulienBernard@armyspy.com;JulienBernard;0615889622;f;33, rue de la Boétie PONTAULT-COMBAULT;77340;7;13;1955;tyvwoLbun8Q2
+Fabienne;Du;FabienneDuTrieux@dayrep.com;FabienneDuTrieux;0644221665;m;29, Chemin Du Lavarin Sud CAEN;14000;10;15;1968;DWLK0zxB4fwC
+Juliette;Charlesbois;JulietteCharlesbois@dayrep.com;JulietteCharlesbois;0680279376;f;70, rue des lieutemants Thomazo DIGNE-LES-BAINS;04000;11;8;1998;EYB6f0Ox4ds2
+Millicent;Davignon;MillicentDavignon@rhyta.com;MillicentDavignon;0650299767;m;20, rue de Raymond Poincaré NEUILLY-SUR-SEINE;92200;7;13;1945;vMsbOwzlfGkt
+Romaine;Beauchamp;RomaineBeauchamp@dayrep.com;RomaineBeauchamp;0694015566;m;51, Quai des Belges MASSY;91300;10;4;1978;Xsz3RQ9OFAGa
+Medoro;Langlois;MedoroLanglois@jourrapide.com;MedoroLanglois;0689250965;m;42, rue de Groussay ROCHEFORT;17300;10;17;1999;GY1V0ty3AQlD
+Roslyn;Boucher;RoslynBoucher@rhyta.com;RoslynBoucher;0653918560;f;21, rue Charles Corbeau FOIX;09000;7;8;1932;UIWDxPETeyOi
+Bartlett;Doyon;BartlettDoyon@teleworm.us;BartlettDoyon;0641749658;f;68, Chemin Challet LIMOGES;87000;8;14;1940;rYKysO2DB4qu
+Melisande;Marcheterre;MelisandeMarcheterre@armyspy.com;MelisandeMarcheterre;0649133026;m;26, rue Marguerite VILLIERS-SUR-MARNE;94350;3;10;1930;gVYcZhbtkTE7
+Platt;Galarneau;PlattGalarneau@rhyta.com;PlattGalarneau;0698390327;m;44, rue Reine Elisabeth MÉRIGNAC;33700;4;13;1947;epO1viIFh03y
+Aurore;Daviau;AuroreDaviau@teleworm.us;AuroreDaviau;0641267763;f;83, boulevard d'Alsace VERDUN;55100;9;22;1923;2vLHYtUwzWlX
+Geneviève;Norbert;GenevieveNorbert@armyspy.com;GenevieveNorbert;0636038587;f;83, rue des Chaligny NICE;06300;11;15;1922;yBLJWnF6TSMf
+Blondelle;Croquetaigne;BlondelleCroquetaigne@jourrapide.com;BlondelleCroquetaigne;0633026487;m;5, rue Reine Elisabeth MENTON;06500;2;17;1946;SDrT1NUafAmw
+Patrick;Hachée;PatrickHachee@dayrep.com;PatrickHachee;0605958164;f;63, boulevard de la Liberation MARSEILLE;13015;2;6;1923;vj1ofQTrbKns
+Édith;Lagrange;EdithLagrange@rhyta.com;EdithLagrange;0635335005;m;37, rue de la Boétie PONTAULT-COMBAULT;77340;5;24;1955;OIkstdBAfulr
+Eloise;Thivierge;EloiseThivierge@dayrep.com;EloiseThivierge;0607496979;m;46, rue Clement Marot PERPIGNAN;66100;10;3;1970;HfqDasjb5T4B
+Landers;Veronneau;LandersVeronneau@armyspy.com;LandersVeronneau;0657515462;m;30, boulevard Bryas COURBEVOIE;92400;11;13;1965;4a9gxop7VEXQ
+Joséphine;Auger;JosephineAuger@armyspy.com;JosephineAuger;0671542708;m;80, Rue de Strasbourg CLICHY-SOUS-BOIS;93390;11;21;1971;xbzpo25dZygf
+Rabican;Bondy;RabicanBondy@teleworm.us;RabicanBondy;0626190037;m;13, rue Saint Germain GENNEVILLIERS;92230;1;2;1945;xpXK2leCdAyv
+René;Grandbois;ReneGrandbois@rhyta.com;ReneGrandbois;0680395211;m;18, rue des lieutemants Thomazo DIGNE-LES-BAINS;04000;5;18;1928;HvhTK23VIYgn
+Travers;Beaudry;TraversBeaudry@armyspy.com;TraversBeaudry;0684875074;f;34, Avenue des Pr'es MONTIGNY-LÈS-METZ;57158;4;4;1952;vFDtL9NBqm3T
+Gallia;Lamoureux;GalliaLamoureux@armyspy.com;GalliaLamoureux;0640110132;m;16, Avenue Millies Lacroix EAUBONNE;95600;2;25;1922;pF05B2qReOTh
+Noémi;Picard;NoemiPicard@teleworm.us;NoemiPicard;0655752625;m;49, Rue de la Pompe MAMOUDZOU;97600;7;1;1951;CP8cxfTnF0lh
+Norris;Grandbois;NorrisGrandbois@jourrapide.com;NorrisGrandbois;0692429727;m;65, rue Pierre De Coubertin TOULOUSE;31400;3;17;1931;dFst6DjULcIp
+Carine;Boivin;CarineBoivin@rhyta.com;CarineBoivin;0617525523;f;31, boulevard d'Alsace VANVES;92170;2;23;1979;4Vh0BM10gcbA
+Éléonore;Tachel;EleonoreTachel@rhyta.com;EleonoreTachel;0662255583;f;19, rue du Château SAINT-JOSEPH;97480;2;23;1931;GcFlw0VWvJp4
+Methena;Quenneville;MethenaQuenneville@rhyta.com;MethenaQuenneville;0650432129;f;97, rue La Boétie PARIS;75015;9;1;1971;9pscSwAlC28f
+Brice;Quirion;BriceQuirion@armyspy.com;BriceQuirion;0692994774;f;77, rue Marie de Médicis BEZONS;95870;2;13;1921;khmOnfEC2JgI
+Grosvenor;Boutot;GrosvenorBoutot@teleworm.us;GrosvenorBoutot;0632815146;m;12, rue du Château SAINT-ÉTIENNE;42100;10;9;1998;0vNg9jqazA32
+Matthieu;Dumoulin;MatthieuDumoulin@jourrapide.com;MatthieuDumoulin;0680104446;f;74, rue Sébastopol SAINTES;17100;8;4;1994;OfzKLmlt9qXk
+Jacquenett;Barjavel;JacquenettBarjavel@rhyta.com;JacquenettBarjavel;0693300883;f;38, Boulevard de Normandie FONTAINE;38600;4;3;1965;JzTO8y0HK5XF
+Philip;Guérette;PhilipGuerette@teleworm.us;PhilipGuerette;0693519508;f;79, rue Goya LE PERREUX-SUR-MARNE;94170;12;13;1959;m6nZOAlRtx0p
+Caresse;Louis;CaresseLouis@teleworm.us;CaresseLouis;0690399359;m;98, Cours Marechal-Joffre DAX;40100;9;3;1950;XMnjcLd19fAP
+Fifine;Masson;FifineMasson@armyspy.com;FifineMasson;0640543409;f;93, Place de la Madeleine PARIS;75012;9;14;1921;oJKpZ83I4tsO
+Wyatt;Bérubé;WyattBerube@teleworm.us;WyattBerube;0604244756;f;53, boulevard Albin Durand CERGY;95000;9;14;1938;FZctKGArs14v
+Marshall;Dastous;MarshallDastous@rhyta.com;MarshallDastous;0601744215;f;64, Faubourg Saint Honoré PARIS;75018;10;28;1945;6mpbYEw7rLMJ
+Somer;Quenneville;SomerQuenneville@jourrapide.com;SomerQuenneville;0672540224;m;4, rue des Lacs HÉNIN-BEAUMONT;62110;9;3;1970;Ki6cL3IwWajt
+Lotye;Fecteau;LotyeFecteau@armyspy.com;LotyeFecteau;0691886156;m;61, rue Léon Dierx LISIEUX;14100;7;26;1926;BxLp5QobhAJm
+Daniel;Camus;DanielCamus@dayrep.com;DanielCamus;0685814549;f;25, Faubourg Saint Honoré PARIS;75018;5;26;1980;sKItdp6cuDN2
+Christiane;Lagacé;ChristianeLagace@teleworm.us;ChristianeLagace;0614538389;m;22, avenue Ferdinand de Lesseps GRANDE-SYNTHE;59760;12;1;1985;SJdl03IRigCc
+Perrin;Hébert;PerrinHebert@dayrep.com;PerrinHebert;0657486576;f;78, rue Michel Ange LE KREMLIN-BICÊTRE;94270;3;11;1930;uyDQ1VopHGZJ
+Prewitt;Caouette;PrewittCaouette@dayrep.com;PrewittCaouette;0609388683;m;31, rue Jean Vilar BEAUVAIS;60000;4;13;1960;5ZB8KvF96XVo
+Noël;Pelletier;NoelPelletier@teleworm.us;NoelPelletier;0669898559;f;53, Rue Joseph Vernet BAGNEUX;92220;12;2;1992;VFjqHuJNCftL
+Hortense;Pomerleau;HortensePomerleau@jourrapide.com;HortensePomerleau;0665960080;m;81, Place Charles de Gaulle VILLENEUVE-D'ASCQ;59491;9;14;1955;fpeFKD0OkIPH
+Eglantine;Duperré;EglantineDuperre@rhyta.com;EglantineDuperre;0648955636;m;94, rue Saint Germain GIF-SUR-YVETTE;91190;3;13;1969;Y1036XwjJht2
+Orva;Houde;OrvaHoude@jourrapide.com;OrvaHoude;0607071982;m;17, Faubourg Saint Honoré PARIS;75020;3;17;1978;kCD8YuasbHom
+Christian;Desilets;ChristianDesilets@rhyta.com;ChristianDesilets;0608461962;m;24, Place du Jeu de Paume VIENNE;38200;9;15;1977;4Bv8TFIKjPWe
+Thibaut;Forest;ThibautForest@jourrapide.com;ThibautForest;0635963746;m;22, rue Nationale PARIS;75007;6;24;1931;Aj0QgOKzYF7J
+Annette;Rivard;AnnetteRivard@dayrep.com;AnnetteRivard;0664281460;f;86, rue La Boétie PARIS;75013;5;20;1980;hnMDz0sI8eXN
+Malagigi;Royer;MalagigiRoyer@rhyta.com;MalagigiRoyer;0697241577;m;30, boulevard de Prague NIORT;79000;11;25;1942;M4LQIy1HAn8E
+Madelene;Ailleboust;MadeleneAilleboust@rhyta.com;MadeleneAilleboust;0674059429;m;35, rue de Groussay RODEZ;12000;9;3;1972;9vN5Phar8okn
+Prunella;Beauchamps;PrunellaBeauchamps@armyspy.com;PrunellaBeauchamps;0604174895;m;3, boulevard Albin Durand CHALON-SUR-SAÔNE;71100;9;27;1980;ZyIUQ8Ru9TL2
+Alphonse;Courcelle;AlphonseCourcelle@teleworm.us;AlphonseCourcelle;0633212038;f;56, Rue de Strasbourg CLICHY;92110;10;13;1987;Uk8Wmqzot7wJ
+Emmanuelle;Barteaux;EmmanuelleBarteaux@armyspy.com;EmmanuelleBarteaux;0632577509;f;76, rue de Groussay ROMAINVILLE;93230;4;28;1967;wvjiVcxFg26G
+Océane;Verreau;OceaneVerreau@armyspy.com;OceaneVerreau;0601928269;f;79, boulevard de Prague NÎMES;30000;3;18;1947;4JPVt9jbZARI
+Dorene;Saucier;DoreneSaucier@jourrapide.com;DoreneSaucier;0667812278;m;95, rue Adolphe Wurtz LE PLESSIS-ROBINSON;92350;9;7;1984;QaCw3x8kRrf0
+Charlot;Laurent;CharlotLaurent@dayrep.com;CharlotLaurent;0670506421;f;9, Place Napoléon LANESTER;56600;10;20;1984;v5YoMcgberQH
+Hugues;Veronneau;HuguesVeronneau@armyspy.com;HuguesVeronneau;0621367479;m;95, Chemin Des Bateliers ANGERS;49100;7;7;1988;2wlQC4RbEfkh
+Fayette;Franchet;FayetteFranchet@jourrapide.com;FayetteFranchet;0661608600;f;50, rue de la Hulotais SAINT-POL-SUR-MER;59430;10;5;1944;kq1MHI8KsDon
+Leal;Laframboise;LealLaframboise@teleworm.us;LealLaframboise;0651134901;m;72, rue Gontier-Patin AGDE;34300;4;5;1951;wg0TCPZy4MYa
+Fantina;Lépicier;FantinaLepicier@armyspy.com;FantinaLepicier;0613843773;f;45, rue de la Boétie POITIERS;86000;8;21;1985;yeapQRlzYI1T
+Grosvenor;Mainville;GrosvenorMainville@armyspy.com;GrosvenorMainville;0609334753;f;54, rue du Faubourg National TARBES;65000;3;6;1968;JOFLvRQG0kK9
+Olivier;Duclos;OlivierDuclos@jourrapide.com;OlivierDuclos;0635001606;f;29, rue La Boétie PARIS;75015;8;1;1942;pascwP9Loieu
+Théophile;Sicard;TheophileSicard@jourrapide.com;TheophileSicard;0607760403;f;50, Rue de Strasbourg CLICHY;92110;2;13;1997;EHTSfX7yFmOk
+Lotye;Marleau;LotyeMarleau@rhyta.com;LotyeMarleau;0634514848;f;23, Rue Hubert de Lisle LORMONT;33310;12;26;1969;MhYZA7VNQvzK
+Guerin;Barrière;GuerinBarriere@rhyta.com;GuerinBarriere;0626671631;f;94, Quai des Belges MEAUX;77100;8;10;1962;jP1vEaUrKtXN
+Élodie;Louineaux;ElodieLouineaux@dayrep.com;ElodieLouineaux;0634690119;m;17, Rue de Verdun MONTGERON;91230;12;4;1986;rhQEnMst2UBx
+Faye;Royer;FayeRoyer@jourrapide.com;FayeRoyer;0612193730;f;61, place de Miremont VILLENEUVE-SAINT-GEORGES;94190;5;28;1941;RtOUAPvd4T1X
+Pauline;Louis;PaulineLouis@dayrep.com;PaulineLouis;0691342199;f;47, rue de l'Epeule ROUEN;76100;10;15;1996;NCZ3B4VXlTL0
+Michèle;Paquette;MichelePaquette@jourrapide.com;MichelePaquette;0670468557;m;56, rue Lenotre REIMS;51100;2;24;1991;tHZFXURqOmy4
+Faye;Ricard;FayeRicard@rhyta.com;FayeRicard;0604788393;m;75, avenue du Marechal Juin SAINT-LEU;97436;6;8;1990;WUIsH5CgSRN4
+Platt;Lafontaine;PlattLafontaine@armyspy.com;PlattLafontaine;0602640428;f;49, Chemin des Bateliers ALBI;81000;12;6;1966;kh0eMC3ztf1F
+Cloridan;Achin;CloridanAchin@rhyta.com;CloridanAchin;0627450209;f;82, rue Bonneterie MIRAMAS;13140;6;9;1983;2637R1JbDUdh
+Grosvenor;Soucy;GrosvenorSoucy@rhyta.com;GrosvenorSoucy;0699301163;m;17, avenue du Marechal Juin SAINT-LÔ;50000;2;6;1926;9icPqpyMt6ED
+Javier;Pitre;JavierPitre@dayrep.com;JavierPitre;0676759505;f;60, rue des Soeurs LA COURNEUVE;93120;7;19;1961;Xml7KW1wOtjr
+Mandel;Gauvin;MandelGauvin@teleworm.us;MandelGauvin;0699181216;m;12, avenue de Bouvines SEDAN;08200;7;13;1984;mOM8zXNqaZBx
+Esperanza;Cantin;EsperanzaCantin@teleworm.us;EsperanzaCantin;0696019618;m;71, rue Adolphe Wurtz LE PORT;97420;5;24;1991;hxJgcMCwrOsT
+Isaac;Pariseau;IsaacPariseau@rhyta.com;IsaacPariseau;0604221490;m;99, Rue de Verdun MONT-DE-MARSAN;40000;2;10;1978;1JcDtQHfP7qS
+France;Lagueux;FranceLagueux@jourrapide.com;FranceLagueux;0689351361;f;47, rue Jean Vilar BESANÇON;25000;9;6;1985;mYJpx0i9v4cb
+Millard;Hughes;MillardHughes@jourrapide.com;MillardHughes;0685149377;m;88, rue Grande Fusterie BRUAY-LA-BUISSIÈRE;62700;11;22;1961;McUD2YKHC65n
+Roland;Drouin;RolandDrouin@rhyta.com;RolandDrouin;0659571093;f;46, rue Porte d'Orange CAYENNE;97300;4;2;1974;ZGt02Eq3I4L6
+Leverett;Guertin;LeverettGuertin@armyspy.com;LeverettGuertin;0672796749;m;9, Place de la Madeleine PARIS;75012;5;10;1929;1F3jUWTw29Nq
+Capucine;Roussel;CapucineRoussel@teleworm.us;CapucineRoussel;0681416679;m;29, rue Victor Hugo COUDEKERQUE-BRANCHE;59210;2;21;1955;kqA8Ny0LSnTI
+Norris;Grenier;NorrisGrenier@armyspy.com;NorrisGrenier;0621628247;m;2, rue des six frères Ruellan SANNOIS;95110;9;14;1962;PLv173OXBYEf
+Zdenek;Cantin;ZdenekCantin@armyspy.com;ZdenekCantin;0674608785;f;96, rue Michel Ange LE KREMLIN-BICÊTRE;94270;3;20;1970;f2d10VB6zaDK
+Erembourg;Pitre;ErembourgPitre@dayrep.com;ErembourgPitre;0621318894;f;25, rue Nationale PARIS;75005;3;23;1971;SngC910oQmzX
+Ancelina;Migneault;AncelinaMigneault@rhyta.com;AncelinaMigneault;0634574656;m;28, Avenue De Marlioz ARGENTEUIL;95100;4;7;1973;2qmPzOJL9rou
+Andrée;Fortin;AndreeFortin@rhyta.com;AndreeFortin;0649355197;m;30, rue Pierre De Coubertin TOULOUSE;31400;3;28;1986;3U01nA96qudD
+Beltane;Harquin;BeltaneHarquin@armyspy.com;BeltaneHarquin;0609263444;f;4, rue de la Boétie PLAISIR;78370;10;19;1941;t9xhCrzNfIKF
+Laurent;Du;LaurentDuTrieux@teleworm.us;LaurentDuTrieux;0614444634;m;44, boulevard Albin Durand CERGY;95800;8;10;1945;nN6Qb9rfuVLT
+D'Arcy;Deserres;DArcyDeserres@rhyta.com;DArcyDeserres;0626458044;f;26, rue Nationale PARIS;75006;10;24;1970;N3gup2YeFcXU
+Eulalie;Bisaillon;EulalieBisaillon@dayrep.com;EulalieBisaillon;0601902484;f;68, rue du Château SAINT-GERMAIN-EN-LAYE;78100;3;9;1931;E3rS0W5ax7cj
+Chappell;Poulin;ChappellPoulin@rhyta.com;ChappellPoulin;0637402961;f;4, Place Napoléon LE BLANC-MESNIL;93150;1;11;1974;LyMbCsPBeuok
+Thérèse;Ricard;ThereseRicard@armyspy.com;ThereseRicard;0681374568;m;61, Rue Frédéric Chopin VERSAILLES;78000;7;22;1992;0gNxSU2Cyqru
+Huette;Parent;HuetteParent@rhyta.com;HuetteParent;0618315754;m;10, Quai des Belges MARSEILLE;13016;4;11;1974;fPEo4AZwh6HO
+Christian;Berthelette;ChristianBerthelette@armyspy.com;ChristianBerthelette;0661268781;f;51, rue Grande Fusterie BRUAY-LA-BUISSIÈRE;62700;4;24;1921;KMDxTzCjic1k
+Curtis;Gaudreau;CurtisGaudreau@dayrep.com;CurtisGaudreau;0658482809;f;24, rue Adolphe Wurtz LE ROBERT;97231;11;13;1936;DYdRxVhbgBnP
+Donat;Brault;DonatBrault@armyspy.com;DonatBrault;0656760935;f;57, Avenue Millies Lacroix DUNKERQUE;59640;9;13;1961;VG5fQ7v4Wxw8
+Azura;Houde;AzuraHoude@jourrapide.com;AzuraHoude;0615062164;m;10, place Stanislas NANTERRE;92000;11;15;1927;SnK5Y4Ubzlh7
+Maslin;Desnoyer;MaslinDesnoyer@teleworm.us;MaslinDesnoyer;0656696804;f;15, rue de la Hulotais SAINT-PRIEST;69800;2;19;1942;Bn30Zevp9Yq2
+Babette;Laprise;BabetteLaprise@rhyta.com;BabetteLaprise;0696595367;m;23, rue du Gue Jacquet CHÂTENAY-MALABRY;92290;10;15;1966;9LfdcNnmPvg5
+Philip;Leroux;PhilipLeroux@rhyta.com;PhilipLeroux;0605439850;m;51, Place de la Madeleine PARIS;75009;1;27;1939;6HU24InyQWJB
+Jacquenett;Patry;JacquenettPatry@rhyta.com;JacquenettPatry;0636716926;f;95, Rue du Limas BEAUNE;21200;5;5;1931;4OAySfD8E0B9
+Auda;Faucher;AudaFaucher@dayrep.com;AudaFaucher;0690916947;f;31, rue Descartes STRASBOURG;67200;11;22;1942;VR3q56c97LZN
+André;Viens;AndreViens@jourrapide.com;AndreViens;0607772106;m;88, avenue Jean Portalis TRAPPES;78190;2;18;1946;dOgBPp80r1hn
+Scoville;Lussier;ScovilleLussier@rhyta.com;ScovilleLussier;0686948795;f;90, Rue Joseph Vernet BAGNOLET;93170;7;14;1921;bvAOrU25pYdT
+Senior;Poirier;SeniorPoirier@teleworm.us;SeniorPoirier;0641280762;m;93, rue Porte d'Orange CARPENTRAS;84200;10;10;1998;nNjsXyp7Auq1
+Liane;Meilleur;LianeMeilleur@rhyta.com;LianeMeilleur;0657050009;m;5, Rue du Palais ÉTAMPES;91150;8;22;1940;25UAe0gGNj7l
+Forrest;Pouchard;ForrestPouchard@teleworm.us;ForrestPouchard;0690275451;m;40, rue de la Boétie PLAISIR;78370;12;25;1989;aBDVrj8z6xwf
+Magnolia;Varieur;MagnoliaVarieur@jourrapide.com;MagnoliaVarieur;0606171880;f;46, Place de la Madeleine PARIS;75012;9;19;1978;rubiaClWJmtX
+Aiglentina;Du;AiglentinaDuTrieux@armyspy.com;AiglentinaDuTrieux;0680522346;m;39, rue de la Mare aux Carats MONTPELLIER;34090;5;24;1954;neQc5pvw0F32
